@@ -8,15 +8,15 @@ aliases:
 **Size:** #Medium
 **Race:** #Elf
 **Alignment:** #Neutral
-**Faction:** [Iron Veil](factions/vallence-factions/iron-veil/iron-veil.md), [Factions/The Cult of Hallenar/The Cult of Hallenar](factions/the-cult-of-hallenar/the-cult-of-hallenar.md)
+**Faction:** [Iron Veil](/factions/vallence-factions/iron-veil/iron-veil), [Factions/The Cult of Hallenar/The Cult of Hallenar](/factions/the-cult-of-hallenar/the-cult-of-hallenar)
 **Positions**:
 
 * Economic Advisor for the Iron Veil
-* [Archbishop of Mortality](factions/the-cult-of-hallenar/archbishops/archbishop-of-mortality.md) for the The Cult of Hallenar
+* [Archbishop of Mortality](/factions/the-cult-of-hallenar/archbishops/archbishop-of-mortality) for the The Cult of Hallenar
   **Player Affiliation:**
-  **NPC Affiliations:** [Ignis Luvten](npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten.md), [NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask](../Iron%20Mask/Iron%20Mask.md), [Dracus Sinthar](npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar.md), [Potions Lady](npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady.md)
-  **Faction Affiliations**: [Crimson Shroud](factions/vallence-factions/crimson-shroud/crimson-shroud.md), [Ebon Quill](factions/vallence-factions/ebon-quill/ebon-quill.md)
-  **Location:** [Iron Veil HQ](places/kingdom-of-minthar/vallence/iron-veil-hq/iron-veil-hq.md), [Vallence](places/kingdom-of-minthar/vallence/vallence.md)
+  **NPC Affiliations:** [Ignis Luvten](/npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten), [NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask](../Iron%20Mask/Iron%20Mask.md), [Dracus Sinthar](/npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar), [Potions Lady](/npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady)
+  **Faction Affiliations**: [Crimson Shroud](/factions/vallence-factions/crimson-shroud/crimson-shroud), [Ebon Quill](/factions/vallence-factions/ebon-quill/ebon-quill)
+  **Location:** [Iron Veil HQ](/places/kingdom-of-minthar/vallence/iron-veil-hq/iron-veil-hq), [Vallence](/places/kingdom-of-minthar/vallence/vallence)
   **Tags:** #NPC #IronVeil #CoH #Mortality #Archbishop
 
 ## Appearance
@@ -26,13 +26,13 @@ aliases:
 **Height:** 5’9”
 **Gender:** Female
 **Clothing:** Dark alchemical robes layered with protective enchantments, always wears black gloves
-**Other:** Wears thin black-framed glasses, her every movement is precise and deliberate; slightly pointed ears hint at her elven heritage. Has an [Ouroboros Tattoo](factions/the-cult-of-hallenar/archbishop-marks/ouroboros-tattoo.md) on her right shoulder.
+**Other:** Wears thin black-framed glasses, her every movement is precise and deliberate; slightly pointed ears hint at her elven heritage. Has an [Ouroboros Tattoo](/factions/the-cult-of-hallenar/archbishop-marks/ouroboros-tattoo) on her right shoulder.
 
 ## Motivations
 
 **Control the Black Market** – Ensure the Iron Veil’s dominance over Vallencia’s illicit trade.
 
-* **Perfect the [Juju Fruit Experiments](plotlines/revival-of-hallenar/juju-fruit-experiments.md)** – Oversee the Iron Veil’s alchemical research, ensuring results at any cost.
+* **Perfect the [Juju Fruit Experiments](/plotlines/revival-of-hallenar/juju-fruit-experiments)** – Oversee the Iron Veil’s alchemical research, ensuring results at any cost.
 * **Strengthen the Iron Veil’s Power** – Remove inefficiencies, whether they be people or ideas.
 * **Further the Cult’s Agenda** – Maintain the delicate balance between her work with the Iron Veil and her deeper allegiance to the Cult of Hallenar.
 

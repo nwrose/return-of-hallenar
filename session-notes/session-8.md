@@ -5,7 +5,7 @@ sticker: emoji//1f5bc-fe0f
 # Session 8
 
 2025-03-23  
-**Player Characters**: [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Crooked Eye](players/crooked-eye/crooked-eye.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**: [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](players/olive/images/olive.jpeg)
 **Attachments:** File  
 **Tags:** #SessionNotes
 
@@ -38,27 +38,27 @@ sticker: emoji//1f5bc-fe0f
 
 ## Locations
 
-* [Vallencia Parliament Building](places/kingdom-of-minthar/vallencia/vallencia-parliament-building/vallencia-parliament-building.md) – Present-day seat of Vallencia’s political power.
-* [Vallencia Parliament Treasury](places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury.md) – A mysterious chamber containing a magical painting.
+* [Vallencia Parliament Building](/places/kingdom-of-minthar/vallencia/vallencia-parliament-building/vallencia-parliament-building) – Present-day seat of Vallencia’s political power.
+* [Vallencia Parliament Treasury](/places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury) – A mysterious chamber containing a magical painting.
 * [Vallencia (2000 Years Ago)](Places/Kingdom%20of%20Minthar/Vallencia/Vallencia%20(2000%20Years%20Ago)/Vallencia%20(2000%20Years%20Ago).md) – The ancient city under siege from the Kraken.
 * [Longhouse of Elders](Places/Kingdom%20of%20Minthar/Vallencia/Vallencia%20(2000%20Years%20Ago)/Longhouse%20of%20Elders.md) – Primitive equivalent of Parliament.
 * Old Docks – The site of the battle between Vallencia’s original heroes and the Kraken.
 
 ## NPCs
 
-* [Frog Elder](npcs/vallencia-npcs/vallencia-core-npcs/frog-elder/frog-elder.md) – Member of the Elder Council, guiding the players in the past.
+* [Frog Elder](/npcs/vallencia-npcs/vallencia-core-npcs/frog-elder/frog-elder) – Member of the Elder Council, guiding the players in the past.
 * Ancient Vallencian Heroes:
-* [Bard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero.md)
-* [Wizard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero.md)
-* [Warlock Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-warlock-hero.md)
-* [Barbarian Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-barbarian-hero.md) (deceased)
-* [Parliament Guards](npcs/vallencia-npcs/vallencia-parliament-npcs/parliament-guards/parliament-guards.md)
-* [Kathilda Stallia](npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia.md) (Mentioned)
+* [Bard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero)
+* [Wizard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero)
+* [Warlock Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-warlock-hero)
+* [Barbarian Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-barbarian-hero) (deceased)
+* [Parliament Guards](/npcs/vallencia-npcs/vallencia-parliament-npcs/parliament-guards/parliament-guards)
+* [Kathilda Stallia](/npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia) (Mentioned)
 
 ## Key Items
 
-* [Mask of Another](items/armor-and-clothing/mask-of-another.md)
-* [Battle of Vallencia Memory Painting](items/key-items/battle-of-vallencia-memory-painting.md)
+* [Mask of Another](/items/armor-and-clothing/mask-of-another)
+* [Battle of Vallencia Memory Painting](/items/key-items/battle-of-vallencia-memory-painting)
 
 ## Details
 

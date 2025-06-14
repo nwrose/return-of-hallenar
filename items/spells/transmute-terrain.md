@@ -22,7 +22,7 @@ tags:
 **Attack/Save:** Dexterity DC 14 (for creatures in the area)
 **Damage/Effect:** Terrain alteration, Difficult Terrain, Potential Prone, Potential Damage
 
-This powerful spell, a marvel of practical transmutation, was originally developed by the [Legendary Wizard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero.md). Its most renowned use was during the historic [Kraken Battle](session-notes/session-9.md), where it was instrumental in constructing [Vallence's Central Pillar](places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar.md), a testament to its potent earth-shaping capabilities. The knowledge of this spell has since been passed to [Crooked Eye](players/crooked-eye/crooked-eye.md)\].
+This powerful spell, a marvel of practical transmutation, was originally developed by the [Legendary Wizard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero). Its most renowned use was during the historic [Kraken Battle](/session-notes/session-9), where it was instrumental in constructing [Vallence's Central Pillar](/places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar), a testament to its potent earth-shaping capabilities. The knowledge of this spell has since been passed to [Crooked Eye](/players/crooked-eye/crooked-eye)\].
 
 You manipulate a small portion of the terrain within range, subtly reshaping it to suit your needs. Choose a **10-foot cube** of natural terrain (stone, dirt, mud, sand, water, or vegetation) within range. You may transform the terrain within the area in one of the following ways:
 

@@ -16,7 +16,7 @@ tags: item
 
 ## I. General Description
 
-* **Appearance:** While sharing the same shape as a normal [Juju Fruit](Juju%20Fruit.md), its coloration is a stark and vibrant purpley-green, a clear visual distinction from the reddish-orange of its benign counterpart. The fruit itself bears no specific marks or symbols.
+* **Appearance:** While sharing the same shape as a normal [Juju Fruit](/Juju%20Fruit), its coloration is a stark and vibrant purpley-green, a clear visual distinction from the reddish-orange of its benign counterpart. The fruit itself bears no specific marks or symbols.
 * **Sensory Details:**
   * **Smell:** Emits an overwhelmingly vile and offensive odor, akin to rotting flesh. The smell is so potent that it can cause crowds to disperse and makes anyone reluctant to be near it.
   * **Feel:** The skin is unnaturally smooth, almost glassy to the touch, yet the fruit remains squishy, similar in texture to a pepper.
@@ -24,15 +24,15 @@ tags: item
 
 ## II. Origin & Lore
 
-* **Typical Source/Location:** First discovered by [Dobbin](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md) and [Chariel](players/chariel-von-dutch/chariel-von-dutch.md) in crates (marked with [Cult Symbol](factions/the-cult-of-hallenar/cult-symbol.md)) within the [Stallia Shipping Company Warehouse](places/kingdom-of-minthar/vallencia/stallia-shipping-company-warehouse/stallia-shipping-company-warehouse.md). It is now believed that these fruits are a byproduct of alchemical experiments conducted by [Seraphim](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md) and the [NPCs/Vallence NPCs/Vallence Core NPCs/Potions Lady/Potions Lady](npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady.md) in their attempt to create an immortality serum. [The Cult](factions/the-cult-of-hallenar/the-cult-of-hallenar.md) appears to be responsible for weaponizing or distributing this byproduct.
+* **Typical Source/Location:** First discovered by [Dobbin](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii) and [Chariel](/players/chariel-von-dutch/chariel-von-dutch) in crates (marked with [Cult Symbol](/factions/the-cult-of-hallenar/cult-symbol)) within the [Stallia Shipping Company Warehouse](/places/kingdom-of-minthar/vallencia/stallia-shipping-company-warehouse/stallia-shipping-company-warehouse). It is now believed that these fruits are a byproduct of alchemical experiments conducted by [Seraphim](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos) and the [NPCs/Vallence NPCs/Vallence Core NPCs/Potions Lady/Potions Lady](/npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady) in their attempt to create an immortality serum. [The Cult](/factions/the-cult-of-hallenar/the-cult-of-hallenar) appears to be responsible for weaponizing or distributing this byproduct.
 * **Method of Acquisition:** Players (Dobbin and Chariel) found them in shipping crates. The cult presumably acquires them from the source of the experiments or has a hand in their creation/alteration.
-* **Cultural/Historical Significance:** Its existence points to a sinister plot involving a cult, the misuse of powerful alchemical experiments, and a potential threat to [Vallencia](places/kingdom-of-minthar/vallencia/vallencia.md) or beyond. The fact that more potent variants are assumed to exist is deeply concerning.
+* **Cultural/Historical Significance:** Its existence points to a sinister plot involving a cult, the misuse of powerful alchemical experiments, and a potential threat to [Vallencia](/places/kingdom-of-minthar/vallencia/vallencia) or beyond. The fact that more potent variants are assumed to exist is deeply concerning.
 
 ## III. Properties & Uses
 
 * **Primary Use(s):** Intended as a potent poison, capable of incapacitating or killing individuals and potentially angering or harming large beasts.
 * **Secondary Use(s):**
-  * Has been used by Dobbin to domesticate his pet worg, [Sir](players/dobbin-cobblepot-iii/sir/sir.md).
+  * Has been used by Dobbin to domesticate his pet worg, [Sir](/players/dobbin-cobblepot-iii/sir/sir).
   * Could be a component in even more dangerous alchemical concoctions.
 * **Known Effects (Poison - Ingestion):**
   * **Target(s):** Any creature that ingests it. Observed to be effective against large beasts.

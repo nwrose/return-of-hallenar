@@ -5,7 +5,7 @@ sticker: emoji//1f460
 # Session 4
 
 **Date:** 2025-02-08
-**Player Characters:** [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md)
+**Player Characters:** [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -32,37 +32,37 @@ sticker: emoji//1f460
 
 ## Locations
 
-1. **[The Shabby Cat](places/kingdom-of-minthar/vallence/the-shabby-cat/the-shabby-cat.md)**
+1. **[The Shabby Cat](/places/kingdom-of-minthar/vallence/the-shabby-cat/the-shabby-cat)**
    * A seedy love hotel where Dobbin and Chariel hired Penny and Shartrice to help with their infiltration plan.
    * Known for its questionable clientele and a hotspot for low-tier gang activity.
-1. **[The Hollow Pulse Nightclub](places/kingdom-of-minthar/vallence/the-hollow-pulse-nightclub/the-hollow-pulse-nightclub.md)**
+1. **[The Hollow Pulse Nightclub](/places/kingdom-of-minthar/vallence/the-hollow-pulse-nightclub/the-hollow-pulse-nightclub)**
    * A high-end nightclub used by the Iron Veil as a front for illicit dealings.
    * Features a unique gravity-altering orb controlled by DJ Aetheris.
    * The location where Dobbin and Chariel gathered intelligence on the Iron Veil’s trade deal and experiments.
-1. **[The Ebon Quill Bar](places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar.md)**
+1. **[The Ebon Quill Bar](/places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar)**
    * A hidden base for the Ebon Quill where Malrik and other members operate.
    * Where the party regrouped and learned about the Stallia Shipping fire.
-1. **[Stallia Shipping Company](factions/vallencia-factions/stallia-shipping-company/stallia-shipping-company.md)** (Burned Down)
+1. **[Stallia Shipping Company](/factions/vallencia-factions/stallia-shipping-company/stallia-shipping-company)** (Burned Down)
    * Once a major shipping hub in Vallencia, now destroyed.
    * Its destruction is a major event with political and economic ramifications.
 
 ## NPCs
 
-* [Malrik](npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik.md)
-* [NPCs/Vallence NPCs/Iron Veil NPCs/Lina Kaldros/Lina Kaldros](npcs/vallence-npcs/iron-veil-npcs/lina-kaldros/lina-kaldros.md)
-* [Rutha](npcs/vallence-npcs/iron-veil-npcs/rutha/rutha.md)
-* [Cassian Veylin](npcs/vallence-npcs/iron-veil-npcs/cassian-veylin/cassian-veylin.md)
-* [Ignis Luvten](npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten.md)
-* [Seraphim Vos](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md)
-* [Selene Veyne](npcs/vallence-npcs/ebon-quill-npcs/selene-veyne/selene-veyne.md) - Attractive ebon quill enforcer (fighter)
-* ["Lucky" Jex](npcs/vallence-npcs/iron-veil-npcs/jex/jex.md) - Gambling member of the Iron Veil
-* [DJ Aetheris](npcs/vallence-npcs/iron-veil-npcs/dj-aetheris/dj-aetheris.md) - DJ at the Hollow Pulse
-* [Penny](npcs/vallence-npcs/misc-vallence-npcs/penny/penny.md) and [Shartrice](npcs/vallence-npcs/misc-vallence-npcs/shartrice/shartrice.md) - "Cheap" prostitutes at the Shabby Cat
+* [Malrik](/npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik)
+* [NPCs/Vallence NPCs/Iron Veil NPCs/Lina Kaldros/Lina Kaldros](/npcs/vallence-npcs/iron-veil-npcs/lina-kaldros/lina-kaldros)
+* [Rutha](/npcs/vallence-npcs/iron-veil-npcs/rutha/rutha)
+* [Cassian Veylin](/npcs/vallence-npcs/iron-veil-npcs/cassian-veylin/cassian-veylin)
+* [Ignis Luvten](/npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten)
+* [Seraphim Vos](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos)
+* [Selene Veyne](/npcs/vallence-npcs/ebon-quill-npcs/selene-veyne/selene-veyne) - Attractive ebon quill enforcer (fighter)
+* ["Lucky" Jex](/npcs/vallence-npcs/iron-veil-npcs/jex/jex) - Gambling member of the Iron Veil
+* [DJ Aetheris](/npcs/vallence-npcs/iron-veil-npcs/dj-aetheris/dj-aetheris) - DJ at the Hollow Pulse
+* [Penny](/npcs/vallence-npcs/misc-vallence-npcs/penny/penny) and [Shartrice](/npcs/vallence-npcs/misc-vallence-npcs/shartrice/shartrice) - "Cheap" prostitutes at the Shabby Cat
 
 ## Key Items
 
-* [Iron Veil Levitation Boots](items/armor-and-clothing/iron-veil-levitation-boots.md)
-* [Levitation Orb](items/miscellaneous-items/levitation-orb.md)
+* [Iron Veil Levitation Boots](/items/armor-and-clothing/iron-veil-levitation-boots)
+* [Levitation Orb](/items/miscellaneous-items/levitation-orb)
 
 ## Details
 

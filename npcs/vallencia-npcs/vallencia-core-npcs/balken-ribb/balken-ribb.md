@@ -12,8 +12,8 @@ aliases:
 * **Appearance Summary:** A 5ft tall Frogkin with green skin and deep black, kind yet stern eyes. He is always impeccably dressed in a dapper full suit, tie, and a white button-down collared shirt, presenting a very professional image.
 * **Alignment:** Lawful Good (demonstrates a strong sense of justice, compassion, and adherence to his business principles)
 * **Occupation/Role:** Owner and Proprietor of The Not So Shabby Cat Inn
-* **Current Location:** [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md), [Vallencia Entertainment District](places/kingdom-of-minthar/vallencia/districts/vallencia-entertainment-district/vallencia-entertainment-district.md), [Vallencia](places/kingdom-of-minthar/vallencia/vallencia.md)
-* **Faction(s):** [Vallencia Small Business Owner's Association](factions/vallencia-small-business-owners-association/vallencia-small-business-owners-association.md)
+* **Current Location:** [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn), [Vallencia Entertainment District](/places/kingdom-of-minthar/vallencia/districts/vallencia-entertainment-district/vallencia-entertainment-district), [Vallencia](/places/kingdom-of-minthar/vallencia/vallencia)
+* **Faction(s):** [Vallencia Small Business Owner's Association](/factions/vallencia-small-business-owners-association/vallencia-small-business-owners-association)
 * **Player Relationship Status:** Neutral
 
 ## Detailed Appearance
@@ -60,19 +60,19 @@ aliases:
 ## Relationships & Connections
 
 * **Allies & Friends:**
-  * **[Dobbin](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md) and his Crew ([Sicily Quickstep](npcs/vallencia-npcs/vallencia-core-npcs/sicily-quickstep/sicily-quickstep.md), [Thad Quadra](npcs/vallencia-npcs/misc-vallencia-npcs/thad-quadra/thad-quadra.md):** Current entertainers. The relationship can be a bit strained by Dobbin's haggling, but Balken entertains ideas if they benefit the business.
+  * **[Dobbin](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii) and his Crew ([Sicily Quickstep](/npcs/vallencia-npcs/vallencia-core-npcs/sicily-quickstep/sicily-quickstep), [Thad Quadra](/npcs/vallencia-npcs/misc-vallencia-npcs/thad-quadra/thad-quadra):** Current entertainers. The relationship can be a bit strained by Dobbin's haggling, but Balken entertains ideas if they benefit the business.
 * **Enemies & Rivals:**
 * **Family:**
   * **Parents:** Alive and retired. Balken has helped them secure a one-bedroom apartment in the Middle Ring. He checks in on them every weekend or every other weekend.
-  * **[Lina Kaldros](npcs/vallence-npcs/iron-veil-npcs/lina-kaldros/lina-kaldros.md):** His cousin who immigrated with the family. She went off on her own some time ago, and Balken hasn't seen her in a while. (Secretly, Lina works for the Iron Veil as a scout).
+  * **[Lina Kaldros](/npcs/vallence-npcs/iron-veil-npcs/lina-kaldros/lina-kaldros):** His cousin who immigrated with the family. She went off on her own some time ago, and Balken hasn't seen her in a while. (Secretly, Lina works for the Iron Veil as a scout).
 * **Other Significant Connections:**
-  * **[Bank of Vallencia](places/kingdom-of-minthar/vallencia/bank-of-vallencia/bank-of-vallencia.md):** Holds the loan for his inn, a constant source of financial pressure.
+  * **[Bank of Vallencia](/places/kingdom-of-minthar/vallencia/bank-of-vallencia/bank-of-vallencia):** Holds the loan for his inn, a constant source of financial pressure.
   * **Regular Customers:** Values them and strives to build loyalty.
 
 ## Knowledge & Secrets
 
 * **Common Knowledge:** Local news of the Middle Ring, happenings in the entertainment scene, quality of other local businesses, common city rumors. He's a good source of information about the general pulse of his district.
-* **Specific Knowledge:** The [Juju Fruit Pie](items/miscellaneous-items/juju-fruit-pie.md) recipe (a closely guarded secret). Insights into the struggles of small business owners in Vallencia. Understanding of city's financial workings due to his loan. Can assess people's needs and situations fairly well.
+* **Specific Knowledge:** The [Juju Fruit Pie](/items/miscellaneous-items/juju-fruit-pie) recipe (a closely guarded secret). Insights into the struggles of small business owners in Vallencia. Understanding of city's financial workings due to his loan. Can assess people's needs and situations fairly well.
 * **Secrets Known:**
   * The full Juju fruit pie recipe.
   * Might overhear various pieces of information from patrons at the bar.

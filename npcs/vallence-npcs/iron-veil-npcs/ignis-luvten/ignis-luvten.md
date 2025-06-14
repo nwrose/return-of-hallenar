@@ -8,11 +8,11 @@ aliases:
 **Size:** #Medium
 **Race:** #Human
 **Alignment:** #Neutral
-**Faction:** [Factions/Vallence Factions/Iron Veil/Iron Veil](factions/vallence-factions/iron-veil/iron-veil.md)
+**Faction:** [Factions/Vallence Factions/Iron Veil/Iron Veil](/factions/vallence-factions/iron-veil/iron-veil)
 **Player Affiliation:**
-**NPC Affiliations:** [Seraphim Vos](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md), [Iron Mask](npcs/vallence-npcs/iron-veil-npcs/iron-mask/iron-mask.md), [Kaili Luvten](npcs/minthar-npcs/kaili-luvten/kaili-luvten.md), [Malrik](npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik.md)
-**Faction Affiliations**: [Ebon Quill](factions/vallence-factions/ebon-quill/ebon-quill.md), [Crimson Shroud](factions/vallence-factions/crimson-shroud/crimson-shroud.md)
-**Location:** [Iron Veil HQ](places/kingdom-of-minthar/vallence/iron-veil-hq/iron-veil-hq.md)
+**NPC Affiliations:** [Seraphim Vos](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos), [Iron Mask](/npcs/vallence-npcs/iron-veil-npcs/iron-mask/iron-mask), [Kaili Luvten](/npcs/minthar-npcs/kaili-luvten/kaili-luvten), [Malrik](/npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik)
+**Faction Affiliations**: [Ebon Quill](/factions/vallence-factions/ebon-quill/ebon-quill), [Crimson Shroud](/factions/vallence-factions/crimson-shroud/crimson-shroud)
+**Location:** [Iron Veil HQ](/places/kingdom-of-minthar/vallence/iron-veil-hq/iron-veil-hq)
 **Tags:** #NPC #IronVeil #Vallence
 
 ## Appearance
@@ -38,7 +38,7 @@ aliases:
 
 **Public Background**: Ignis Luvten was once a knight-commander from a distant land, a highly disciplined warrior who trained in both steel and magic. However, his past is steeped in mystery, and whispers of disgrace and exile surround his name. After leaving his homeland, he found purpose within the Iron Veil, where his unwavering discipline and brutal efficiency made him one of the faction’s most feared enforcers.
 
-**Private Background:** In truth, Ignis was a knight-commander of [Minthar](places/kingdom-of-minthar/minthar/minthar.md)— though he was born in the slums, the son of commoners. His mother died during childbirth and his father later fell in love with a noblewoman. They had a daughter, Kaili (Ignis’ half sister). However, it was decided that the noblewoman would marry the [NPCs/Minthar NPCs/King of Minthar/King of Minthar](../../../Minthar%20NPCs/King%20of%20Minthar/King%20of%20Minthar.md). To protect his sister, Ignis served as Kaili’s royal guard.
+**Private Background:** In truth, Ignis was a knight-commander of [Minthar](/places/kingdom-of-minthar/minthar/minthar)— though he was born in the slums, the son of commoners. His mother died during childbirth and his father later fell in love with a noblewoman. They had a daughter, Kaili (Ignis’ half sister). However, it was decided that the noblewoman would marry the [NPCs/Minthar NPCs/King of Minthar/King of Minthar](../../../Minthar%20NPCs/King%20of%20Minthar/King%20of%20Minthar.md). To protect his sister, Ignis served as Kaili’s royal guard.
 
 One day on patrol in the slums, Ignis witnessed a man taking advantage of a defenseless woman. When confronted, the man attacked Ignis with a knife, to which Ignis instinctually reacted, killing the man. It turns out that the man was a high ranking noble in the king’s court, and the hunt for his killer was soon underway.
 

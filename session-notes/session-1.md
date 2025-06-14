@@ -5,7 +5,7 @@ sticker: emoji//1f438
 # Session 1: Welcome to Vallencia
 
 **Date**: 2024-12-07
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](players/brad-romance/brad-romance.md)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance)
 **Attachments:** File
 **Tags**: #SessionNotes
 
@@ -27,24 +27,24 @@ sticker: emoji//1f438
 
 ## Locations
 
-* [Vallencia](places/kingdom-of-minthar/vallencia/vallencia.md)
-* [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md)
-* [Docks](places/kingdom-of-minthar/vallencia/docks/docks.md)
+* [Vallencia](/places/kingdom-of-minthar/vallencia/vallencia)
+* [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn)
+* [Docks](/places/kingdom-of-minthar/vallencia/docks/docks)
 
 ## NPCs
 
-* [Elise](npcs/vallencia-npcs/vallencia-core-npcs/elise/elise.md)
-* [Sir Expendable](npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable.md) – Capital Rep
-* [Shirley Topplepots](npcs/vallencia-npcs/misc-vallencia-npcs/shirley-topplepots/shirley-topplepots.md) - Theatre Loving Tourist
-* [Balken Ribb](npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb.md) – Inn Keeper
-* [Cultists](factions/the-cult-of-hallenar/cultists.md)
+* [Elise](/npcs/vallencia-npcs/vallencia-core-npcs/elise/elise)
+* [Sir Expendable](/npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable) – Capital Rep
+* [Shirley Topplepots](/npcs/vallencia-npcs/misc-vallencia-npcs/shirley-topplepots/shirley-topplepots) - Theatre Loving Tourist
+* [Balken Ribb](/npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb) – Inn Keeper
+* [Cultists](/factions/the-cult-of-hallenar/cultists)
 
 ## Key Items
 
-* [Sir Expendable's Notebook](items/key-items/hallenars-sealing-journal.md) (old locked journal)
-* [Juju Fruit](items/key-items/juju-fruit.md)
-* [Tremor Schedule](items/key-items/note-with-earthquake-schedule.md)
-* [Juju Fruit Pie](items/miscellaneous-items/juju-fruit-pie.md)
+* [Sir Expendable's Notebook](/items/key-items/hallenars-sealing-journal) (old locked journal)
+* [Juju Fruit](/items/key-items/juju-fruit)
+* [Tremor Schedule](/items/key-items/note-with-earthquake-schedule)
+* [Juju Fruit Pie](/items/miscellaneous-items/juju-fruit-pie)
 
 ## Details
 

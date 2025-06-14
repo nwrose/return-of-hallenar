@@ -1,16 +1,16 @@
 # The Return of Hallenar Player Wiki
 
-## 📚 [Session Notes](session-notes/session-notes.md)
+## 📚 [Session Notes](/session-notes/session-notes)
 
-* [Session 1🐸](session-notes/session-1.md)
-* [Session 2🥧](session-notes/session-2.md)
-* [Session 3🦀](session-notes/session-3.md)
-* [Session 4👠](session-notes/session-4.md)
-* [Session 5💣](session-notes/session-5.md)
-* [Session 6🎡](session-notes/session-6.md)
-* [Session 7🦷](session-notes/session-7.md)
-* [Session 8🖼️](session-notes/session-8.md)
-* [Session 9🐙](session-notes/session-9.md)
-* [Session 10🤵🏼‍♂️](session-notes/session-10.md)
+* [Session 1🐸](/session-notes/session-1)
+* [Session 2🥧](/session-notes/session-2)
+* [Session 3🦀](/session-notes/session-3)
+* [Session 4👠](/session-notes/session-4)
+* [Session 5💣](/session-notes/session-5)
+* [Session 6🎡](/session-notes/session-6)
+* [Session 7🦷](/session-notes/session-7)
+* [Session 8🖼️](/session-notes/session-8)
+* [Session 9🐙](/session-notes/session-9)
+* [Session 10🤵🏼‍♂️](/session-notes/session-10)
 
-## 👭[NPCs](npcs/npcs.md)
+## 👭[NPCs](/npcs/npcs)

@@ -1,12 +1,12 @@
 # Elise
 
-**Known Role:** Tour Guide in [Vallencia](places/kingdom-of-minthar/vallencia/vallencia.md); has proven to be a knowledgeable and helpful ally.
+**Known Role:** Tour Guide in [Vallencia](/places/kingdom-of-minthar/vallencia/vallencia); has proven to be a knowledgeable and helpful ally.
 
 ## Circumstances of Encounter & Key Interactions:
 
-* **Initial Tour:** Elise was the guide for a tour group in Vallencia that [Brad Romance](players/brad-romance/brad-romance.md) joined at the beginning of the campaign. Other known members of this tour group included the late [Sir Expendable](npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable.md) and [Shirley Topplepots](npcs/vallencia-npcs/misc-vallencia-npcs/shirley-topplepots/shirley-topplepots.md). The tour included a visit to [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md) to see a play.
-* **Post-Battle Assistance & Cult Knowledge:** Following a [a battle with cultists](Session%201🐸.md), Elise demonstrated significant knowledge about [The Cult](factions/the-cult-of-hallenar/the-cult-of-hallenar.md) operating in Vallencia.
-* She actively **assisted the players in defeating cultists** who stormed The Not So Shabby Cat Inn. These cultists were attempting to retrieve [Sir Expendable's Notebook](items/key-items/hallenars-sealing-journal.md), which the players had acquired from Sir Expendable.
+* **Initial Tour:** Elise was the guide for a tour group in Vallencia that [Brad Romance](/players/brad-romance/brad-romance) joined at the beginning of the campaign. Other known members of this tour group included the late [Sir Expendable](/npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable) and [Shirley Topplepots](/npcs/vallencia-npcs/misc-vallencia-npcs/shirley-topplepots/shirley-topplepots). The tour included a visit to [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn) to see a play.
+* **Post-Battle Assistance & Cult Knowledge:** Following a [a battle with cultists](/Session%201🐸), Elise demonstrated significant knowledge about [The Cult](/factions/the-cult-of-hallenar/the-cult-of-hallenar) operating in Vallencia.
+* She actively **assisted the players in defeating cultists** who stormed The Not So Shabby Cat Inn. These cultists were attempting to retrieve [Sir Expendable's Notebook](/items/key-items/hallenars-sealing-journal), which the players had acquired from Sir Expendable.
 * Elise provided the players with information about the cult.
 * She issued a crucial **warning**, emphasizing that if the cult desired Sir Expendable's Journal so badly, it must be very important and the players should keep it safe.
 

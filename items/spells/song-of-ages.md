@@ -22,7 +22,7 @@ tags:
 **Attack/Save:** None
 **Damage/Effect:** Buff
 
-This unique song, an ancient and evolving melody penned by a [Legendary Bard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero.md) of yore and now acquired by [Dobbin](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), is known collectively as **The Song of Ages**. Its power and resonance grow as the caster imbues it with more energy.
+This unique song, an ancient and evolving melody penned by a [Legendary Bard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero) of yore and now acquired by [Dobbin](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), is known collectively as **The Song of Ages**. Its power and resonance grow as the caster imbues it with more energy.
 
 ### 2nd Level: Echo of Courage
 

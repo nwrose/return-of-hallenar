@@ -11,8 +11,8 @@ aliases:
 **Appearance Summary:** A short (approx. 4 ft tall), middle-aged dwarf woman with a vibrant shock of curly ginger hair and dark skin. Her eyes likely sparkle with an intense passion, especially when discussing theater.
 **Alignment:** Chaotic Neutral
 **Occupation/Role:** Theater Aficionado / Local Resident
-**Current Location:** [Vallencia](places/kingdom-of-minthar/vallencia/vallencia.md) (often found at theatrical performances or discussing them)
-**Faction(s):** [Guzzlethroat the Magnificent Fan Club](factions/vallencia-factions/guzzlethroat-the-magnificent-fan-club/guzzlethroat-the-magnificent-fan-club.md)
+**Current Location:** [Vallencia](/places/kingdom-of-minthar/vallencia/vallencia) (often found at theatrical performances or discussing them)
+**Faction(s):** [Guzzlethroat the Magnificent Fan Club](/factions/vallencia-factions/guzzlethroat-the-magnificent-fan-club/guzzlethroat-the-magnificent-fan-club)
 **Player Relationship Status:** (Likely Neutral; encountered alongside Brad in a tour group. Might remember players if they discuss theater with her, otherwise probably not.)
 
 ## Detailed Appearance
@@ -27,7 +27,7 @@ aliases:
 * **Overall Demeanor:** Extremely enthusiastic and passionate, almost "a little crazy," about theater. She is firm in her beliefs and opinions, especially regarding performances.
 * **Quirks & Habits:** Prone to animatedly discussing plays and actors. May have a selective memory, easily forgetting people or details she deems unimportant or unrelated to her theatrical interests.
 * **Likes & Dislikes:**
-  * **Likes:** Theater (all aspects), [Guzzlethroat the Magnificent](npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent.md), discussing plays, attending performances.
+  * **Likes:** Theater (all aspects), [Guzzlethroat the Magnificent](/npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent), discussing plays, attending performances.
   * **Dislikes:** People who don't appreciate theater, poor performances (very critical).
 * **Speech Patterns/Voice:** Animated, perhaps a bit loud or dramatic when excited.
 * **Ideals:** The supreme importance of art and theater. The brilliance of certain performers.
@@ -51,8 +51,8 @@ aliases:
 * **Allies & Friends:** Other theater enthusiasts, perhaps specific actors or playwrights she admires from afar.
 * **Enemies & Rivals:** Rival critics or those with opposing theatrical opinions.
 * **Other Significant Connections:**
-  * **[Brad](players/brad-romance/brad-romance.md):** Acquainted through the tour group.
-  * **[Dobbin](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md):** Saw his play at The Not So Shabby Cat Inn.
+  * **[Brad](/players/brad-romance/brad-romance):** Acquainted through the tour group.
+  * **[Dobbin](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii):** Saw his play at The Not So Shabby Cat Inn.
 
 ## Notable Skills & Abilities (Non-Combat)
 

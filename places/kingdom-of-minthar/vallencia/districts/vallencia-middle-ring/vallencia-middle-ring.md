@@ -45,7 +45,7 @@ The Middle Ring is a vibrant artery of Vallencian life, where the man-made river
 
 The Eastern Middle Ring, nearest the Docks, boasts the grand Vallencia Town Square, a place of public gathering and celebration. Nearby, the beloved "Not So Shabby Cat Inn" is a beacon of warmth and cheer, its nightly lively performances drawing crowds who revel in affordable entertainment and the unique, sweet-and-spicy aroma of Juju fruit. Here, the fruit is king, transformed into pies of legendary status, pastries, jams, jellies, candies, and even savory meals, a testament to Vallencia's southern Juju Island connection. Music often drifts from local bars in this part of the ring, raising people's spirits with tales of heroes passed, especially during festive times like the Sealing Festival.
 
-(For the Western Middle Ring, see the [Vallencia Entertainment District](places/kingdom-of-minthar/vallencia/districts/vallencia-entertainment-district/vallencia-entertainment-district.md) entry.)
+(For the Western Middle Ring, see the [Vallencia Entertainment District](/places/kingdom-of-minthar/vallencia/districts/vallencia-entertainment-district/vallencia-entertainment-district) entry.)
 
 ````dataviewjs
 /**

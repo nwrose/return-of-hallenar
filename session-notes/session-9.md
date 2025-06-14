@@ -5,7 +5,7 @@ sticker: emoji//1f419
 # Session 9
 
 2025-03-30
-**Player Characters**: [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Crooked Eye](players/crooked-eye/crooked-eye.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**: [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](players/olive/images/olive.jpeg)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -18,10 +18,10 @@ sticker: emoji//1f419
 * The players exited the enchanted painting with new knowledge and a new path forward.
 * Someone corrupted the painting → barbarian hero was not supposed to be killed so fast
 * Players received key items:
-  * Dobbin received the [Song of Ages](items/spells/song-of-ages.md)
-  * Chariel received the [Rapier of Echos](items/weapons/rapier-of-echos.md)
-  * Crooked Eye received [Transmute Terrain](items/spells/transmute-terrain.md)
-  * Brad received the [Amulet of Solario](items/jewelry/amulet-of-solario.md)
+  * Dobbin received the [Song of Ages](/items/spells/song-of-ages)
+  * Chariel received the [Rapier of Echos](/items/weapons/rapier-of-echos)
+  * Crooked Eye received [Transmute Terrain](/items/spells/transmute-terrain)
+  * Brad received the [Amulet of Solario](/items/jewelry/amulet-of-solario)
 
 ## Encounters
 
@@ -31,20 +31,20 @@ sticker: emoji//1f419
 ## Locations
 
 * [Kraken Cavern (Vallence)](Places/Kingdom%20of%20Minthar/Vallencia/Vallencia%20(2000%20Years%20Ago)/Kraken%20Cavern%20(Vallence).md)
-* [Vallencia Parliament Treasury](places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury.md) (Upper Chamber)
+* [Vallencia Parliament Treasury](/places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury) (Upper Chamber)
 
 ## NPCs
 
-* [Bard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero.md)
+* [Bard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-bard-hero)
 
-* [Wizard Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero.md)
-* [Warlock Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-warlock-hero.md)
-* [Ragnar](npcs/deities/ragnar/ragnar.md)
+* [Wizard Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-wizard-hero)
+* [Warlock Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-warlock-hero)
+* [Ragnar](/npcs/deities/ragnar/ragnar)
 
 ## Key Items
 
-* [Battle of Vallencia Memory Painting](items/key-items/battle-of-vallencia-memory-painting.md)
-* [Chariel's Dice](items/key-items/chariels-dice.md)
+* [Battle of Vallencia Memory Painting](/items/key-items/battle-of-vallencia-memory-painting)
+* [Chariel's Dice](/items/key-items/chariels-dice)
 
 ## Details
 
@@ -63,7 +63,7 @@ sticker: emoji//1f419
 * Crooked Eye separated the Kraken flesh connecting the stone to the Kraken's stomach
 * The stone's dense magic let out a powerful burst that downed Crooked Eye and disrupted the Wizard Hero's spell, causing the cavern walls to begin collapsing more
 * Wizard hero and Warlock hero exchanged a solemn glance and nod with each other and the Bard who was climbing out of the Kraken's mouth
-  * The Wizard Hero imbued herself within the [Vallence Central Pillar](places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar.md) to strengthen it
+  * The Wizard Hero imbued herself within the [Vallence Central Pillar](/places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar) to strengthen it
   * The Warlock hero burned the rest of his being to melt the linings of the cavern to a glassy black obsidian
 * The Bard Hero teleported the core to the bottom of the ocean
 * Heroes faded away and woke up on the floor outside of the painting they entered

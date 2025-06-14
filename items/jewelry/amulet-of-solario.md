@@ -14,7 +14,7 @@ tags:
 # Owner
 
 [Brad Romance](Brad%20Romance)
-Previous Owner: [Barbarian Hero](npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-barbarian-hero.md)
+Previous Owner: [Barbarian Hero](/npcs/vallencia-npcs/vallencias-legendary-heroes/legendary-barbarian-hero)
 
 # Description
 

@@ -5,7 +5,7 @@ sticker: emoji//1f3a1
 # Session 6
 
 2025-02-23
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](players/brad-romance/brad-romance.md), [Olive](players/olive/images/olive.jpeg), [Crooked Eye](players/crooked-eye/crooked-eye.md)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Olive](players/olive/images/olive.jpeg), [Crooked Eye](/players/crooked-eye/crooked-eye)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -36,31 +36,31 @@ sticker: emoji//1f3a1
 
 ## Locations
 
-1. [The Piercing Pen](places/kingdom-of-minthar/vallence/the-piercing-pen/the-piercing-pen.md)
+1. [The Piercing Pen](/places/kingdom-of-minthar/vallence/the-piercing-pen/the-piercing-pen)
    * Players wake up in the morning here
    * Brad realizes the room is difference from the other Vallence Inn
-1. [The Ebon Quill Bar](places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar.md) (Vallence)
+1. [The Ebon Quill Bar](/places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar) (Vallence)
    * Meeting place for Malrik and the Ebon Quill.
    * Gained intel on the treasury and Iron Veil experiments.
-1. [Vallencia Town Square](places/kingdom-of-minthar/vallencia/vallencia-town-square/vallencia-town-square.md) (Vallencia)
-   * [Centennial Sealing Festival](plotlines/history-of-vallencia/centennial-sealing-festival.md) – massive public event.
+1. [Vallencia Town Square](/places/kingdom-of-minthar/vallencia/vallencia-town-square/vallencia-town-square) (Vallencia)
+   * [Centennial Sealing Festival](/plotlines/history-of-vallencia/centennial-sealing-festival) – massive public event.
    * Guzzlethroat’s performance was the centerpiece.
    * Seraphim’s confrontation took place here.
-1. [Vallence Central Pillar](places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar.md) (Mentioned by Malrik)
+1. [Vallence Central Pillar](/places/kingdom-of-minthar/vallence/vallence-central-pillar/vallence-central-pillar) (Mentioned by Malrik)
 
 ## NPCs
 
-* [Malrik](npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik.md) – Leader of the Ebon Quill, provided intel on the treasury and Iron Veil.
-* [Thad Quadra](npcs/vallencia-npcs/misc-vallencia-npcs/thad-quadra/thad-quadra.md) – Actor from Dobbin’s troupe, covering for him in the show.
-* [Sicily Quickstep](npcs/vallencia-npcs/vallencia-core-npcs/sicily-quickstep/sicily-quickstep.md) – Member of the Vallencia Playwrights Guild, informed Dobbin about Balken Ribb’s frustration.
-* [Doctor Lucious White](npcs/vallence-npcs/ebon-quill-npcs/doctor-lucious-white/doctor-lucious-white.md) – Ebon Quill’s doctor, diagnosed Brad’s soul entanglement.
-* [Guzzlethroat](npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent.md) – Bard who recognized Dobbin as “The Dentist.”
-* [Seraphim Vos](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md) – Archbishop of Mortality, framed the players and released Mutant Sir Expendable.
+* [Malrik](/npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik) – Leader of the Ebon Quill, provided intel on the treasury and Iron Veil.
+* [Thad Quadra](/npcs/vallencia-npcs/misc-vallencia-npcs/thad-quadra/thad-quadra) – Actor from Dobbin’s troupe, covering for him in the show.
+* [Sicily Quickstep](/npcs/vallencia-npcs/vallencia-core-npcs/sicily-quickstep/sicily-quickstep) – Member of the Vallencia Playwrights Guild, informed Dobbin about Balken Ribb’s frustration.
+* [Doctor Lucious White](/npcs/vallence-npcs/ebon-quill-npcs/doctor-lucious-white/doctor-lucious-white) – Ebon Quill’s doctor, diagnosed Brad’s soul entanglement.
+* [Guzzlethroat](/npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent) – Bard who recognized Dobbin as “The Dentist.”
+* [Seraphim Vos](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos) – Archbishop of Mortality, framed the players and released Mutant Sir Expendable.
 
 ## Key Items
 
-* [Seraphim's Research Log](items/key-items/seraphims-research-log.md)
-* [Mask of Another](items/armor-and-clothing/mask-of-another.md)
+* [Seraphim's Research Log](/items/key-items/seraphims-research-log)
+* [Mask of Another](/items/armor-and-clothing/mask-of-another)
 
 ## Details
 
@@ -114,9 +114,9 @@ sticker: emoji//1f3a1
     * Leaving Stallia shipping unguarded
     * Potentially working with Malrik
     * Breaking into her office and blowing it up
-  * Reveals her [Ouroboros Tattoo](factions/the-cult-of-hallenar/archbishop-marks/ouroboros-tattoo.md)) on her back
-    * Crooked eye recognizes that signifies the [Factions/The Cult of Hallenar/Archbishops/Archbishop of Mortality](factions/the-cult-of-hallenar/archbishops/archbishop-of-mortality.md)
-    * Players learn of the [The Seven Sins of Civilization](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/the-seven-sins-of-civilization.md)
+  * Reveals her [Ouroboros Tattoo](/factions/the-cult-of-hallenar/archbishop-marks/ouroboros-tattoo)) on her back
+    * Crooked eye recognizes that signifies the [Factions/The Cult of Hallenar/Archbishops/Archbishop of Mortality](/factions/the-cult-of-hallenar/archbishops/archbishop-of-mortality)
+    * Players learn of the [The Seven Sins of Civilization](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/the-seven-sins-of-civilization)
   * Seraphim releases a mutantified Sir Expendable after having experimented on him
 * Players battle Sir Expendable, two petting zoo dogs turned worgs, and two carousal horses turned dark shadow horses
   * Players struggle to defeat them

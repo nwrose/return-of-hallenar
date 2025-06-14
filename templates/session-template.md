@@ -1,7 +1,7 @@
 # {{title}}
 
 {{date}}
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](players/brad-romance/brad-romance.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Crooked Eye](players/crooked-eye/crooked-eye.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](players/olive/images/olive.jpeg)
 **Tags:** #SessionNotes
 
 ## Summary or key decisions

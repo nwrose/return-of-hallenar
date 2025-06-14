@@ -168,20 +168,20 @@ if (uniqueAndSortedItems.length > 0) {
 
 ## Description
 
-The Cult of Hallenar is an apocalyptic cult bent on returning the deity [Hallenar](factions/the-cult-of-hallenar/hallenar.md) that laid waste to the [Kingdom of Minthar](places/kingdom-of-minthar/kingdom-of-minthar.md) 2000 years ago and plunge the world into chaos and destruction so that a new world can come about. The cult has a following that spans the Kingdom of Minthar. Cult members are seldom seen in public, with the exception of highly involved zealots. Beginning as a religious rebellion against the Mintharian government, the cult has recruited membership from various demographics since its inception, with impoverished, neglected, and/or persecuted communities being especially receptive to their message of "a reset of society."
+The Cult of Hallenar is an apocalyptic cult bent on returning the deity [Hallenar](/factions/the-cult-of-hallenar/hallenar) that laid waste to the [Kingdom of Minthar](/places/kingdom-of-minthar/kingdom-of-minthar) 2000 years ago and plunge the world into chaos and destruction so that a new world can come about. The cult has a following that spans the Kingdom of Minthar. Cult members are seldom seen in public, with the exception of highly involved zealots. Beginning as a religious rebellion against the Mintharian government, the cult has recruited membership from various demographics since its inception, with impoverished, neglected, and/or persecuted communities being especially receptive to their message of "a reset of society."
 
 ## Background
 
 ## Values
 
-The cult values are based upheaving [The Seven Sins of Civilization](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/the-seven-sins-of-civilization.md). Those being:
+The cult values are based upheaving [The Seven Sins of Civilization](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/the-seven-sins-of-civilization). Those being:
 
-1. [Gluttony](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/gluttony.md) – The Overconsumption of Nature
-1. [Destruction](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/destruction.md) – The Devastation of Natural Land
-1. [Order](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/order.md) – The Lie of Civilization’s Stability
-1. [Hubris](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/hubris.md) – The Illusion of Human Supremacy
-1. [Ignorance & Indifference](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/ignorance-and-indifference.md) – The Blind and the Uncaring
-1. [Mortality](factions/the-cult-of-hallenar/the-seven-sins-of-civilization/mortality.md) – The Fear of Death
+1. [Gluttony](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/gluttony) – The Overconsumption of Nature
+1. [Destruction](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/destruction) – The Devastation of Natural Land
+1. [Order](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/order) – The Lie of Civilization’s Stability
+1. [Hubris](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/hubris) – The Illusion of Human Supremacy
+1. [Ignorance & Indifference](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/ignorance-and-indifference) – The Blind and the Uncaring
+1. [Mortality](/factions/the-cult-of-hallenar/the-seven-sins-of-civilization/mortality) – The Fear of Death
 1. 
 
 ````dataviewjs

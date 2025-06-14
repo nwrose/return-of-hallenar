@@ -15,9 +15,9 @@ Humans believe their lives are sacred, that the world begins and ends with them.
 
 An Ouroboros
 
-## [Archbishop](factions/the-cult-of-hallenar/archbishops/archbishops.md)
+## [Archbishop](/factions/the-cult-of-hallenar/archbishops/archbishops)
 
-* **Embodied by:** [Seraphim Vos](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md)
-* **[Abyssborn Bonds](factions/the-cult-of-hallenar/abyssborn-bonds/abyssborn-bonds.md):** [Ouroboros Jade Bracelet](factions/the-cult-of-hallenar/abyssborn-bonds/ouroboros-jade-bracelet.md)
-* **[Archbishop Marks](factions/the-cult-of-hallenar/archbishop-marks/archbishop-marks.md):** A Black Ouroboros, Located on Her Spine
+* **Embodied by:** [Seraphim Vos](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos)
+* **[Abyssborn Bonds](/factions/the-cult-of-hallenar/abyssborn-bonds/abyssborn-bonds):** [Ouroboros Jade Bracelet](/factions/the-cult-of-hallenar/abyssborn-bonds/ouroboros-jade-bracelet)
+* **[Archbishop Marks](/factions/the-cult-of-hallenar/archbishop-marks/archbishop-marks):** A Black Ouroboros, Located on Her Spine
   * When activated, the ouroboros glows sickly green, and shadows seem to linger around her body

@@ -45,8 +45,8 @@ if (false) {
 }
 ````
 
-* [Brad Romance](players/brad-romance/brad-romance.md)
-* [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md)
-* [Crooked Eye](players/crooked-eye/crooked-eye.md)
-* [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md)
+* [Brad Romance](/players/brad-romance/brad-romance)
+* [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch)
+* [Crooked Eye](/players/crooked-eye/crooked-eye)
+* [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii)
 * [Olive](players/olive/images/olive.jpeg)

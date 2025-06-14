@@ -5,7 +5,7 @@ sticker: emoji//1f967
 # Session 2: Cult and City Intrigue in Vallence
 
 **Date:** 2024-12-10
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](players/brad-romance/brad-romance.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](players/olive/images/olive.jpeg)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -31,31 +31,31 @@ sticker: emoji//1f967
 
 ## Locations
 
-* [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md)
-* [Docks](places/kingdom-of-minthar/vallencia/docks/docks.md)
-* [Vallence](places/kingdom-of-minthar/vallence/vallence.md)
-* [Vallence Potions Shop](places/kingdom-of-minthar/vallence/vallence-potions-shop/vallence-potions-shop.md)
-* [Garruk's Workshop](places/kingdom-of-minthar/vallence/garruks-workshop/garruks-workshop.md)
-* [Vallence Inn](places/kingdom-of-minthar/vallence/vallence-inn/vallence-inn.md)
-* [Stallia Shipping Company HQ](places/kingdom-of-minthar/vallencia/stallia-shipping-company-hq/stallia-shipping-company-hq.md)
+* [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn)
+* [Docks](/places/kingdom-of-minthar/vallencia/docks/docks)
+* [Vallence](/places/kingdom-of-minthar/vallence/vallence)
+* [Vallence Potions Shop](/places/kingdom-of-minthar/vallence/vallence-potions-shop/vallence-potions-shop)
+* [Garruk's Workshop](/places/kingdom-of-minthar/vallence/garruks-workshop/garruks-workshop)
+* [Vallence Inn](/places/kingdom-of-minthar/vallence/vallence-inn/vallence-inn)
+* [Stallia Shipping Company HQ](/places/kingdom-of-minthar/vallencia/stallia-shipping-company-hq/stallia-shipping-company-hq)
 
 ## NPCs
 
-* [Simon](npcs/vallencia-npcs/misc-vallencia-npcs/simon/simon.md) – Information desk person
-* [Potions Lady](npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady.md)
-* [Garruk Ironstitch](npcs/vallence-npcs/vallence-core-npcs/garruk-ironstitch/garruk-ironstitch.md)
+* [Simon](/npcs/vallencia-npcs/misc-vallencia-npcs/simon/simon) – Information desk person
+* [Potions Lady](/npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady)
+* [Garruk Ironstitch](/npcs/vallence-npcs/vallence-core-npcs/garruk-ironstitch/garruk-ironstitch)
 * [Olive](players/olive/images/olive.jpeg)
-* [Sherman Corn](npcs/vallencia-npcs/vallencia-core-npcs/sherman-corn/sherman-corn.md)
+* [Sherman Corn](/npcs/vallencia-npcs/vallencia-core-npcs/sherman-corn/sherman-corn)
 * Vallence inn keeper
-* [Ragnar](npcs/deities/ragnar/ragnar.md) (Mentioned)
-* [Kathilda Stallia](npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia.md) (Chariel's mother, mentioned in flashback)
+* [Ragnar](/npcs/deities/ragnar/ragnar) (Mentioned)
+* [Kathilda Stallia](/npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia) (Chariel's mother, mentioned in flashback)
 
 ## Key Items
 
-* [Cult Pin](items/key-items/cult-pin.md) (gold tree with angel wings)
-* [Sir Expendable's Journal](items/key-items/hallenars-sealing-journal.md) (previously acquired)
-* [Ethereal Tuning Fork](items/key-items/ethereal-tuning-fork.md)
-* [Juju Fruit](items/key-items/juju-fruit.md) (containing Chariel's soul, then baked into a pie)
+* [Cult Pin](/items/key-items/cult-pin) (gold tree with angel wings)
+* [Sir Expendable's Journal](/items/key-items/hallenars-sealing-journal) (previously acquired)
+* [Ethereal Tuning Fork](/items/key-items/ethereal-tuning-fork)
+* [Juju Fruit](/items/key-items/juju-fruit) (containing Chariel's soul, then baked into a pie)
 
 ## Details
 

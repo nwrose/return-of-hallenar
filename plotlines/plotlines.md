@@ -45,6 +45,6 @@ if (false) {
 }
 ````
 
-* [History of Vallencia](plotlines/history-of-vallencia/history-of-vallencia.md)
-* [Revival of Hallenar](plotlines/revival-of-hallenar/revival-of-hallenar.md)
-* [Ragnar God of Chaos](plotlines/ragnar-god-of-chaos/ragnar-god-of-chaos.md)
+* [History of Vallencia](/plotlines/history-of-vallencia/history-of-vallencia)
+* [Revival of Hallenar](/plotlines/revival-of-hallenar/revival-of-hallenar)
+* [Ragnar God of Chaos](/plotlines/ragnar-god-of-chaos/ragnar-god-of-chaos)

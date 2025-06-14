@@ -5,7 +5,7 @@ sticker: emoji//1f980
 # Session 3: Docks, Parliament & The Unusual Audition
 
 **Date:** 2025-01-10
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](players/olive/images/olive.jpeg)
 **Attachments:** File  
 **Tags:** #SessionNotes
 
@@ -35,35 +35,35 @@ sticker: emoji//1f980
 
 ## Locations
 
-* [Vallencia Parliament Building](places/kingdom-of-minthar/vallencia/vallencia-parliament-building/vallencia-parliament-building.md)
-* [Docks](places/kingdom-of-minthar/vallencia/docks/docks.md)
-* [Stallia Shipping Company HQ](places/kingdom-of-minthar/vallencia/stallia-shipping-company-hq/stallia-shipping-company-hq.md)
-* [Stallia Shipping Company Warehouse](places/kingdom-of-minthar/vallencia/stallia-shipping-company-warehouse/stallia-shipping-company-warehouse.md)
-* [The Ebon Quill Bar](places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar.md)
+* [Vallencia Parliament Building](/places/kingdom-of-minthar/vallencia/vallencia-parliament-building/vallencia-parliament-building)
+* [Docks](/places/kingdom-of-minthar/vallencia/docks/docks)
+* [Stallia Shipping Company HQ](/places/kingdom-of-minthar/vallencia/stallia-shipping-company-hq/stallia-shipping-company-hq)
+* [Stallia Shipping Company Warehouse](/places/kingdom-of-minthar/vallencia/stallia-shipping-company-warehouse/stallia-shipping-company-warehouse)
+* [The Ebon Quill Bar](/places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar)
 
 ## NPCs
 
-* [Dracus Sinthar](npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar.md) (King's advisor, leading council meeting)
-* [Kathilda Stallia](npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia.md) (Council member, concerned about shipping)
-* [Nicholas Sutter](npcs/vallencia-npcs/vallencia-parliament-npcs/nicholas-sutter/nicholas-sutter.md) (Junior Council member)
-* [Selena](npcs/vallencia-npcs/vallencia-parliament-npcs/selena/selena.md) (Parliament scribe)
-* [Malrik](npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik.md) (Underground figure)
+* [Dracus Sinthar](/npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar) (King's advisor, leading council meeting)
+* [Kathilda Stallia](/npcs/vallencia-npcs/vallencia-core-npcs/kathilda-stallia/kathilda-stallia) (Council member, concerned about shipping)
+* [Nicholas Sutter](/npcs/vallencia-npcs/vallencia-parliament-npcs/nicholas-sutter/nicholas-sutter) (Junior Council member)
+* [Selena](/npcs/vallencia-npcs/vallencia-parliament-npcs/selena/selena) (Parliament scribe)
+* [Malrik](/npcs/vallence-npcs/ebon-quill-npcs/malrik/malrik) (Underground figure)
 * Dockside Shopkeep
-* [Timothee the Chalamet](npcs/vallencia-npcs/misc-vallencia-npcs/timothee-the-chalamet/timothee-the-chalamet.md) (Stallia Shipping employee)
-* [Guzzlethroat the Magnificent](npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent.md) (Play director, mentioned)
+* [Timothee the Chalamet](/npcs/vallencia-npcs/misc-vallencia-npcs/timothee-the-chalamet/timothee-the-chalamet) (Stallia Shipping employee)
+* [Guzzlethroat the Magnificent](/npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent) (Play director, mentioned)
 * Dock workers (attacked by crabs)
 * Unnamed cultist (fled warehouse)
 * Kids at townsquare (helped track cultist)
-* [Fake Chariel](npcs/vallencia-npcs/vallencia-core-npcs/fake-chariel/fake-chariel.md) (seen making a deal)
-* [Man coerced by Fake Chariel](npcs/vallencia-npcs/misc-vallencia-npcs/man-coerced-by-fake-chariel/man-coerced-by-fake-chariel.md)
+* [Fake Chariel](/npcs/vallencia-npcs/vallencia-core-npcs/fake-chariel/fake-chariel) (seen making a deal)
+* [Man coerced by Fake Chariel](/npcs/vallencia-npcs/misc-vallencia-npcs/man-coerced-by-fake-chariel/man-coerced-by-fake-chariel)
 * Large guys (Malrik's associates)
 
 ## Key Items
 
-* [Potion for Stiff Neck](items/miscellaneous-items/potion-for-stiff-neck.md)
+* [Potion for Stiff Neck](/items/miscellaneous-items/potion-for-stiff-neck)
 * Expensive alcohol (stolen by Dobbin and Chariel, one used for Molotov)
 * [Poisoned Juju Fruit](Poisoned%20Juju%20Fruit) (taken by Dobbin from cult crate)
-* [Chariel's Dice](items/key-items/chariels-dice.md) (used to break a magical deal)
+* [Chariel's Dice](/items/key-items/chariels-dice) (used to break a magical deal)
 
 ## Details
 

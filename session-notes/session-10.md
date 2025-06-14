@@ -5,7 +5,7 @@ sticker: emoji//1f935-200d-2642-fe0f
 # Session 10
 
 **2025-04-13**
-**Player Characters**: [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Chariel Von Dutch](players/chariel-von-dutch/chariel-von-dutch.md), [Crooked Eye](players/crooked-eye/crooked-eye.md), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**: [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](players/olive/images/olive.jpeg)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -36,25 +36,25 @@ sticker: emoji//1f935-200d-2642-fe0f
 
 ## Locations
 
-* [Vallencia Parliament Treasury](places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury.md)
-* [Vallencia Library](places/kingdom-of-minthar/vallencia/vallencia-library/vallencia-library.md)
-* [Vallence](places/kingdom-of-minthar/vallence/vallence.md) (Alley)
+* [Vallencia Parliament Treasury](/places/kingdom-of-minthar/vallencia/vallencia-parliament-treasury/vallencia-parliament-treasury)
+* [Vallencia Library](/places/kingdom-of-minthar/vallencia/vallencia-library/vallencia-library)
+* [Vallence](/places/kingdom-of-minthar/vallence/vallence) (Alley)
 
 ## NPCs
 
-* [Culvis](npcs/vallencia-npcs/vallencia-core-npcs/culvis/culvis.md)
-* [Tim](npcs/vallencia-npcs/vallencia-core-npcs/tim/tim.md) (Brad's childhood friend)
-* [WW&W Shopkeep Boy](npcs/vallencia-npcs/misc-vallencia-npcs/wwandw-shopkeep-boy/wwandw-shopkeep-boy.md) (advertising end of days)
-* [Fake Chariel](npcs/vallencia-npcs/vallencia-core-npcs/fake-chariel/fake-chariel.md) (Mentioned)
-* [Dracus Sinthar](npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar.md) (mentioned as having installed the new treasury guard)
+* [Culvis](/npcs/vallencia-npcs/vallencia-core-npcs/culvis/culvis)
+* [Tim](/npcs/vallencia-npcs/vallencia-core-npcs/tim/tim) (Brad's childhood friend)
+* [WW&W Shopkeep Boy](/npcs/vallencia-npcs/misc-vallencia-npcs/wwandw-shopkeep-boy/wwandw-shopkeep-boy) (advertising end of days)
+* [Fake Chariel](/npcs/vallencia-npcs/vallencia-core-npcs/fake-chariel/fake-chariel) (Mentioned)
+* [Dracus Sinthar](/npcs/vallencia-npcs/vallencia-parliament-npcs/dracus-sinthar/dracus-sinthar) (mentioned as having installed the new treasury guard)
 
 ## Key Items
 
-* Abilities/items gained from legendary heroes ([Song of Ages](items/spells/song-of-ages.md), [Rapier of Echos](items/weapons/rapier-of-echos.md), [Transmute Terrain](items/spells/transmute-terrain.md), [Amulet of Solario](items/jewelry/amulet-of-solario.md))
-* [Chariel's Dice](items/key-items/chariels-dice.md) (unique, cannot be replicated, used for tracking by Tim)
-* [Key to Hallenar's Sealing Journal](items/key-items/key-to-hallenars-sealing-journal.md) (seen in the treasury)
-* [Tim's Tracking spell](items/spells/tims-tracking-spell.md) (used by Tim, given by fake Chariel)
-* [The Whimsy Wardrobe & Wares Inventory](items/shops/the-whimsy-wardrobe-and-wares.md)
+* Abilities/items gained from legendary heroes ([Song of Ages](/items/spells/song-of-ages), [Rapier of Echos](/items/weapons/rapier-of-echos), [Transmute Terrain](/items/spells/transmute-terrain), [Amulet of Solario](/items/jewelry/amulet-of-solario))
+* [Chariel's Dice](/items/key-items/chariels-dice) (unique, cannot be replicated, used for tracking by Tim)
+* [Key to Hallenar's Sealing Journal](/items/key-items/key-to-hallenars-sealing-journal) (seen in the treasury)
+* [Tim's Tracking spell](/items/spells/tims-tracking-spell) (used by Tim, given by fake Chariel)
+* [The Whimsy Wardrobe & Wares Inventory](/items/shops/the-whimsy-wardrobe-and-wares)
 
 ## Details
 
@@ -77,7 +77,7 @@ sticker: emoji//1f935-200d-2642-fe0f
 * The players decide to meet back up with Olive at the library
 * On the way to the library, they see a small boy advertising the end of days...
   * ... So they need to stock up on items
-  * [The Whimsy Wardrobe & Wares](items/shops/the-whimsy-wardrobe-and-wares.md)
+  * [The Whimsy Wardrobe & Wares](/items/shops/the-whimsy-wardrobe-and-wares)
   * The shop is located on the other side of Vallencia
 * The players meet up with Olive and Sir (who jumps on Dobbin immediately)
   * Olive is caught up with the history of Vallencia but tells a different history of the 4 heroes sacrificing themselves to defeat the beast, but their names were erased from the texts

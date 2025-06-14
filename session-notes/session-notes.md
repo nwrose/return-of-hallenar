@@ -33,5 +33,5 @@ dv.list(pages.map(p => {
 * [Session 7🦷](../Session%20Notes/Session%207%F0%9F%A6%B7.md)
 * [Session 8🖼️](../Session%20Notes/Session%208%F0%9F%96%BC%EF%B8%8F.md)
 * [Session 9🐙](../Session%20Notes/Session%209%F0%9F%90%99.md)
-* [Session Notes](session-notes/session-notes.md)
-* [Session Template](templates/session-template.md)
+* [Session Notes](/session-notes/session-notes)
+* [Session Template](/templates/session-template)

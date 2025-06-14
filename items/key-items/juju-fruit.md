@@ -20,11 +20,11 @@ tags: item
 
 ## II. Origin & Lore
 
-* **Typical Source/Location:** Primarily grown and cultivated in a specific island colony neighboring Vallencia, the same colony from which [NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb](npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb.md)'s family originates. The climate of this offshore island is uniquely suited for the Juju fruit's thriving.
-* **Method of Acquisition:** Harvested in the colony. The **[Factions/Vallencia Factions/Stallia Shipping Company/Stallia Shipping Company](factions/vallencia-factions/stallia-shipping-company/stallia-shipping-company.md)** holds a significant role as the main importer and distributor. They manage the entire logistics chain: harvesting support, packaging on the island, shipping to Vallencia, and subsequent distribution within the Kingdom of Minthar and export to other kingdoms and cities.
+* **Typical Source/Location:** Primarily grown and cultivated in a specific island colony neighboring Vallencia, the same colony from which [NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb](/npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb)'s family originates. The climate of this offshore island is uniquely suited for the Juju fruit's thriving.
+* **Method of Acquisition:** Harvested in the colony. The **[Factions/Vallencia Factions/Stallia Shipping Company/Stallia Shipping Company](/factions/vallencia-factions/stallia-shipping-company/stallia-shipping-company)** holds a significant role as the main importer and distributor. They manage the entire logistics chain: harvesting support, packaging on the island, shipping to Vallencia, and subsequent distribution within the Kingdom of Minthar and export to other kingdoms and cities.
 * **Cultural/Historical Significance:**
   * The entire economy of its native island colony is heavily based on the cultivation and export of Juju fruit. It's a staple export and a known commodity in regional trade.
-  * **The Centennial Offering:** As revealed by [NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable](npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable.md), a critical arrangement exists between the **Expendable family** and the **Stallia Shipping Company**. Every 100 years, large shipments of Juju fruit are used to appease a great beast residing in the ocean off the shores of Vallencia. This offering is vital for maintaining peace or preventing disaster.
+  * **The Centennial Offering:** As revealed by [NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable](/npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable), a critical arrangement exists between the **Expendable family** and the **Stallia Shipping Company**. Every 100 years, large shipments of Juju fruit are used to appease a great beast residing in the ocean off the shores of Vallencia. This offering is vital for maintaining peace or preventing disaster.
 
 ## III. Properties & Uses
 
@@ -42,7 +42,7 @@ tags: item
   * Juju Fruit Pie
   * Centennial Offering to the Ocean Beast
   * Potential ingredient in healing potions and other alchemical mixtures.
-  * Currently being researched by [Seraphim](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md) and the [NPCs/Vallence NPCs/Vallence Core NPCs/Potions Lady/Potions Lady](npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady.md) for experimental purposes.
+  * Currently being researched by [Seraphim](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos) and the [NPCs/Vallence NPCs/Vallence Core NPCs/Potions Lady/Potions Lady](/npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady) for experimental purposes.
 
 ## IV. Notable Examples or Known Keepers
 
@@ -54,5 +54,5 @@ tags: item
 
 ### Variants
 
-* [Poisoned Juju Fruit](Poisoned%20Juju%20Fruit.md)
-* [Green Juju Fruit](items/key-items/green-juju-fruit.md)
+* [Poisoned Juju Fruit](/Poisoned%20Juju%20Fruit)
+* [Green Juju Fruit](/items/key-items/green-juju-fruit)

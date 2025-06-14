@@ -7,11 +7,11 @@ aliases: []
 **Size:** #Medium
 **Race:** #Half-Elf #Lycanthrope
 **Alignment:** #Neutral
-**Faction:** [Factions/Vallence Factions/Ebon Quill/Ebon Quill](factions/vallence-factions/ebon-quill/ebon-quill.md)
-**Player Affiliation:** [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](Brad%20Romance)
-**NPC Affiliations:** [NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask](../../Iron%20Veil%20NPCs/Iron%20Mask/Iron%20Mask.md), [Ignis Luvten](npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten.md), [Seraphim Vos](npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos.md), [Selene Veyne](npcs/vallence-npcs/ebon-quill-npcs/selene-veyne/selene-veyne.md),
-**Faction Affiliations**: [Iron Veil](factions/vallence-factions/iron-veil/iron-veil.md), [Factions/Vallence Factions/Crimson Shroud/Crimson Shroud](factions/vallence-factions/crimson-shroud/crimson-shroud.md)
-**Location:** [The Ebon Quill Bar](places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar.md), [Vallence](places/kingdom-of-minthar/vallence/vallence.md)
+**Faction:** [Factions/Vallence Factions/Ebon Quill/Ebon Quill](/factions/vallence-factions/ebon-quill/ebon-quill)
+**Player Affiliation:** [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](Brad%20Romance)
+**NPC Affiliations:** [NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask](../../Iron%20Veil%20NPCs/Iron%20Mask/Iron%20Mask.md), [Ignis Luvten](/npcs/vallence-npcs/iron-veil-npcs/ignis-luvten/ignis-luvten), [Seraphim Vos](/npcs/vallence-npcs/iron-veil-npcs/seraphim-vos/seraphim-vos), [Selene Veyne](/npcs/vallence-npcs/ebon-quill-npcs/selene-veyne/selene-veyne),
+**Faction Affiliations**: [Iron Veil](/factions/vallence-factions/iron-veil/iron-veil), [Factions/Vallence Factions/Crimson Shroud/Crimson Shroud](/factions/vallence-factions/crimson-shroud/crimson-shroud)
+**Location:** [The Ebon Quill Bar](/places/kingdom-of-minthar/vallence/the-ebon-quill-bar/the-ebon-quill-bar), [Vallence](/places/kingdom-of-minthar/vallence/vallence)
 **Tags:** #NPC #EbonQuill #Vallence
 
 ## Appearance

@@ -24,8 +24,8 @@ tags: item
 
 ## II. Origin & Lore
 
-* **Typical Source/Location:** Exclusively available at [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md) in [Factions/Vallencia Factions/Vallencia Factions](factions/vallencia-factions/vallencia-factions.md).
-* **Method of Acquisition:** Purchased at The Not So Shabby Cat Inn. The recipe is a closely guarded secret, passed down through [NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb](npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb.md)'s family.
+* **Typical Source/Location:** Exclusively available at [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn) in [Factions/Vallencia Factions/Vallencia Factions](/factions/vallencia-factions/vallencia-factions).
+* **Method of Acquisition:** Purchased at The Not So Shabby Cat Inn. The recipe is a closely guarded secret, passed down through [NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb](/npcs/vallencia-npcs/vallencia-core-npcs/balken-ribb/balken-ribb)'s family.
 * **Cultural/Historical Significance:**
   * A legendary dish in the Middle Ring of Vallencia, and a cornerstone of The Not So Shabby Cat Inn's reputation.
   * Represents Balken Ribb's family heritage and culinary skill, originally perfected by his father.

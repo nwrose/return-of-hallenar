@@ -45,4 +45,4 @@ if (false) {
 }
 ````
 
-* [Overworld](planes/overworld/overworld.md)
+* [Overworld](/planes/overworld/overworld)

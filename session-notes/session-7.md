@@ -5,7 +5,7 @@ sticker: emoji//1f9b7
 # Session 7
 
 2025-03-05
-**Player Characters**:  [Dobbin Cobblepot III](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md), [Brad Romance](players/brad-romance/brad-romance.md), [Olive](players/olive/images/olive.jpeg), [Crooked Eye](players/crooked-eye/crooked-eye.md)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Olive](players/olive/images/olive.jpeg), [Crooked Eye](/players/crooked-eye/crooked-eye)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -29,28 +29,28 @@ sticker: emoji//1f9b7
 
 ## Locations
 
-1. **[Town square](places/kingdom-of-minthar/vallencia/vallencia-town-square/vallencia-town-square.md)**: Ruined Ferris wheel at the sealing festival. Site of Sir Expendable’s last stand.
-1. **[Thieves Guild of Vallence Building](places/kingdom-of-minthar/vallence/thieves-guild-of-vallence-building/thieves-guild-of-vallence-building.md)**: Dodgy bureaucracy, Tim’s adventuring party seen here.
-1. **[Guzzlethroat's Penthouse](places/kingdom-of-minthar/vallencia/guzzlethroats-penthouse/guzzlethroats-penthouse.md)**: Lavish but eerie; site of interrogation and attempted dental extraction.
-1. **[The Piercing Pen](places/kingdom-of-minthar/vallence/the-piercing-pen/the-piercing-pen.md)**: Brothel/informant hub; Crooked Eye infiltrates via questionable seduction.
-1. **[Vallence PetSmart](places/kingdom-of-minthar/vallence/vallence-petsmart/vallence-petsmart.md)**
+1. **[Town square](/places/kingdom-of-minthar/vallencia/vallencia-town-square/vallencia-town-square)**: Ruined Ferris wheel at the sealing festival. Site of Sir Expendable’s last stand.
+1. **[Thieves Guild of Vallence Building](/places/kingdom-of-minthar/vallence/thieves-guild-of-vallence-building/thieves-guild-of-vallence-building)**: Dodgy bureaucracy, Tim’s adventuring party seen here.
+1. **[Guzzlethroat's Penthouse](/places/kingdom-of-minthar/vallencia/guzzlethroats-penthouse/guzzlethroats-penthouse)**: Lavish but eerie; site of interrogation and attempted dental extraction.
+1. **[The Piercing Pen](/places/kingdom-of-minthar/vallence/the-piercing-pen/the-piercing-pen)**: Brothel/informant hub; Crooked Eye infiltrates via questionable seduction.
+1. **[Vallence PetSmart](/places/kingdom-of-minthar/vallence/vallence-petsmart/vallence-petsmart)**
 
 ## NPCs
 
-* [Sir Expendable](npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable.md) *(deceased)*: Agent of the Capitol, carrying secrets about the JuJu Fruit supply chain and the guardian in the Treasury. Meant to retrieve the key from Dracus. Killed by Seraphim.
-* [Guzzlethroat](npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent.md): Holds a vendetta against Dobbin due to events in Crystal Forge. Has a taste for cruelty.
-* [Tim](npcs/vallencia-npcs/vallencia-core-npcs/tim/tim.md): Familiar face from Brad’s past. Spotted at the Thieves Guild; emotional reaction hints at unresolved tension or secrets.
-* [Sir](players/dobbin-cobblepot-iii/sir/sir.md): Dobbin’s new canine companion (formerly a Worg), showing odd affection for the poisoned purple JuJu Fruit.
+* [Sir Expendable](/npcs/vallencia-npcs/vallencia-core-npcs/sir-expendable/sir-expendable) *(deceased)*: Agent of the Capitol, carrying secrets about the JuJu Fruit supply chain and the guardian in the Treasury. Meant to retrieve the key from Dracus. Killed by Seraphim.
+* [Guzzlethroat](/npcs/vallencia-npcs/vallencia-core-npcs/guzzlethroat-the-magnificent/guzzlethroat-the-magnificent): Holds a vendetta against Dobbin due to events in Crystal Forge. Has a taste for cruelty.
+* [Tim](/npcs/vallencia-npcs/vallencia-core-npcs/tim/tim): Familiar face from Brad’s past. Spotted at the Thieves Guild; emotional reaction hints at unresolved tension or secrets.
+* [Sir](/players/dobbin-cobblepot-iii/sir/sir): Dobbin’s new canine companion (formerly a Worg), showing odd affection for the poisoned purple JuJu Fruit.
 
 * [Front Desk Twins (Doormen)](NPCs/Vallencia%20NPCs/Misc%20Vallencia%20NPCs/Front%20Desk%20Twins%20(Doormen)/Front%20Desk%20Twins%20(Doormen).md): Used by Dobbin in disguise to escape.
 
-* [Piercing Pen Clerk](npcs/vallence-npcs/misc-vallence-npcs/piercing-pen-clerk/piercing-pen-clerk.md): Seduced by Crooked Eye; may now be a source of information or leverage.
-* [Mysterious Note Writer](npcs/vallence-npcs/vallence-core-npcs/mysterious-note-writer/mysterious-note-writer.md): Warning Crooked Eye about Cult ties and his father—identity unknown.
+* [Piercing Pen Clerk](/npcs/vallence-npcs/misc-vallence-npcs/piercing-pen-clerk/piercing-pen-clerk): Seduced by Crooked Eye; may now be a source of information or leverage.
+* [Mysterious Note Writer](/npcs/vallence-npcs/vallence-core-npcs/mysterious-note-writer/mysterious-note-writer): Warning Crooked Eye about Cult ties and his father—identity unknown.
 
 ## Key Items
 
-* [Poisoned Juju Fruit](items/key-items/poisoned-juju-fruit.md)
-* [Mask of Another](items/armor-and-clothing/mask-of-another.md)
+* [Poisoned Juju Fruit](/items/key-items/poisoned-juju-fruit)
+* [Mask of Another](/items/armor-and-clothing/mask-of-another)
 
 ## Details
 

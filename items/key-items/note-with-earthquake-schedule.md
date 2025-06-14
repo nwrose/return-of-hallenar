@@ -23,8 +23,8 @@ tags: item
 
 ## II. Origin & Lore
 
-* **Typical Source/Location:** Penned by a member or operative of **[The Cult of Hallenar](factions/the-cult-of-hallenar/the-cult-of-hallenar.md)**. This specific note was found in connection with activities at The [Docks](places/kingdom-of-minthar/vallencia/docks/docks.md) in Vallencia.
-* **Method of Acquisition:** Discovered by [Dobbin](players/dobbin-cobblepot-iii/dobbin-cobblepot-iii.md) and [Brad](players/brad-romance/brad-romance.md). It was found inside the robe of a defeated [Cultist](factions/the-cult-of-hallenar/cultists.md) at [The Not So Shabby Cat Inn](places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn.md)
+* **Typical Source/Location:** Penned by a member or operative of **[The Cult of Hallenar](/factions/the-cult-of-hallenar/the-cult-of-hallenar)**. This specific note was found in connection with activities at The [Docks](/places/kingdom-of-minthar/vallencia/docks/docks) in Vallencia.
+* **Method of Acquisition:** Discovered by [Dobbin](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii) and [Brad](/players/brad-romance/brad-romance). It was found inside the robe of a defeated [Cultist](/factions/the-cult-of-hallenar/cultists) at [The Not So Shabby Cat Inn](/places/kingdom-of-minthar/vallencia/the-not-so-shabby-cat-inn/the-not-so-shabby-cat-inn)
 * **Cultural/Historical Significance:** This note is direct evidence of the Cult of Hallenar's organized activities and premeditated plans. It signifies a level of coordination and intent beyond random acts, pointing to a more significant threat from this specific cult.
 
 ## III. Properties & Uses
