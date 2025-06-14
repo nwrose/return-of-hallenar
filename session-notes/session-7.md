@@ -5,7 +5,7 @@ sticker: emoji//1f9b7
 # Session 7
 
 2025-03-05
-**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Olive](players/olive/images/olive.jpeg), [Crooked Eye](/players/crooked-eye/crooked-eye)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Olive](/players/olive/olive), [Crooked Eye](/players/crooked-eye/crooked-eye)
 **Attachments:** File
 **Tags:** #SessionNotes
 

@@ -5,7 +5,7 @@ sticker: emoji//1f935-200d-2642-fe0f
 # Session 10
 
 **2025-04-13**
-**Player Characters**: [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**: [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Crooked Eye](/players/crooked-eye/crooked-eye), [Olive](/players/olive/olive)
 **Attachments:** File
 **Tags:** #SessionNotes
 

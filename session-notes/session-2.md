@@ -5,7 +5,7 @@ sticker: emoji//1f967
 # Session 2: Cult and City Intrigue in Vallence
 
 **Date:** 2024-12-10
-**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Brad Romance](/players/brad-romance/brad-romance), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](/players/olive/olive)
 **Attachments:** File
 **Tags:** #SessionNotes
 
@@ -44,7 +44,7 @@ sticker: emoji//1f967
 * [Simon](/npcs/vallencia-npcs/misc-vallencia-npcs/simon/simon) – Information desk person
 * [Potions Lady](/npcs/vallence-npcs/vallence-core-npcs/potions-lady/potions-lady)
 * [Garruk Ironstitch](/npcs/vallence-npcs/vallence-core-npcs/garruk-ironstitch/garruk-ironstitch)
-* [Olive](players/olive/images/olive.jpeg)
+* [Olive](/players/olive/olive)
 * [Sherman Corn](/npcs/vallencia-npcs/vallencia-core-npcs/sherman-corn/sherman-corn)
 * Vallence inn keeper
 * [Ragnar](/npcs/deities/ragnar/ragnar) (Mentioned)

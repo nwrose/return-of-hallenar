@@ -5,7 +5,7 @@ sticker: emoji//1f980
 # Session 3: Docks, Parliament & The Unusual Audition
 
 **Date:** 2025-01-10
-**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](players/olive/images/olive.jpeg)
+**Player Characters**:  [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii), [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch), [Olive](/players/olive/olive)
 **Attachments:** File  
 **Tags:** #SessionNotes
 

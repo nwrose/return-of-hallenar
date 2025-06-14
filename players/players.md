@@ -14,4 +14,4 @@ dateCreated: 2025-06-14T00:07:49.631Z
 * [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch)
 * [Crooked Eye](/players/crooked-eye/crooked-eye)
 * [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii)
-* [Olive](players/olive/images/olive.jpeg)
+* [Olive](/players/olive/olive)
