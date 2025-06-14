@@ -1,7 +1,11 @@
 ---
-aliases:
-- NSSC
-- NSCC Inn
+title: the-not-so-shabby-cat-inn
+description: 
+published: 1
+date: 2025-06-14T19:01:43.452Z
+tags: place
+editor: markdown
+dateCreated: 2025-06-14T00:31:13.495Z
 ---
 
 # The Not So Shabby Cat Inn
