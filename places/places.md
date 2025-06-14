@@ -2,13 +2,15 @@
 title: places
 description: 
 published: 1
-date: 2025-06-14T19:09:44.865Z
+date: 2025-06-14T19:10:36.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-14T00:07:42.878Z
 ---
 
 # All Places (A-Z)
+
+NOTE: May not contain all places, also check the "place" tag if it is not here
 
 * [Bank of Vallencia](/places/kingdom-of-minthar/vallencia/bank-of-vallencia/bank-of-vallencia)
 * [Crystal Forge](/places/crystal-forge/crystal-forge)
