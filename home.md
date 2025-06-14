@@ -1,11 +1,11 @@
 ---
 title: readme
 description: 
-published: true
-date: 2025-06-07T18:41:32.445Z
+published: 1
+date: 2025-06-14T19:20:59.286Z
 tags: 
 editor: markdown
-dateCreated: 2025-06-07T18:41:32.445Z
+dateCreated: 2025-06-13T23:23:45.117Z
 ---
 
 # The Return of Hallenar Player Wiki
@@ -23,4 +23,9 @@ dateCreated: 2025-06-07T18:41:32.445Z
 * [Session 9🐙](/session-notes/session-9)
 * [Session 10🤵🏼‍♂️](/session-notes/session-10)
 
-## 👭[NPCs](/npcs/npcs)
+## Players
+* [Brad Romance](/players/brad-romance/brad-romance)
+* [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch)
+* [Crooked Eye](/players/crooked-eye/crooked-eye)
+* [Dobbin Cobblepot III](/players/dobbin-cobblepot-iii/dobbin-cobblepot-iii)
+* [Olive](/players/olive/olive)
