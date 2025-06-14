@@ -1,3 +1,13 @@
+---
+title: the-whimsy-wardrobe-and-wares
+description: 
+published: 1
+date: 2025-06-14T19:07:44.838Z
+tags: place, shop
+editor: markdown
+dateCreated: 2025-06-14T00:10:04.526Z
+---
+
 |**Name**|**Price (gp)**|**Physical Description**|**Effect / Ability**|**Rarity**|
 |----|----------|--------------------|----------------|------|
 |**Ever-Wilting Rose**|150|A magically preserved crimson rose in a glass vial.|Voice becomes more seductive, but each lie causes a petal to fall. At 0 petals: 1d4 psychic dmg + frightened by your reflection for 1 min.|Uncommon|
