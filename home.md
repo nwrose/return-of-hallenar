@@ -2,7 +2,7 @@
 title: readme
 description: 
 published: 1
-date: 2025-06-14T19:21:26.337Z
+date: 2025-06-14T19:22:21.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T23:23:45.117Z
@@ -23,7 +23,7 @@ dateCreated: 2025-06-13T23:23:45.117Z
 * [Session 9🐙](/session-notes/session-9)
 * [Session 10🤵🏼‍♂️](/session-notes/session-10)
 
-## [Players](/players/players)
+## 👤 [Players](/players/players)
 * [Brad Romance](/players/brad-romance/brad-romance)
 * [Chariel Von Dutch](/players/chariel-von-dutch/chariel-von-dutch)
 * [Crooked Eye](/players/crooked-eye/crooked-eye)
