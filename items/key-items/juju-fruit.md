@@ -1,7 +1,11 @@
 ---
-aliases:
-- JuJu Fruit
-tags: item
+title: juju-fruit
+description: 
+published: 1
+date: 2025-06-14T19:12:45.281Z
+tags: item, key item
+editor: markdown
+dateCreated: 2025-06-14T00:09:26.656Z
 ---
 
 # Juju Fruit
