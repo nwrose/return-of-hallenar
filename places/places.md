@@ -1,28 +1,14 @@
 ---
-sticker: emoji//1f3e1
-group_tag: []
+title: places
+description: 
+published: 1
+date: 2025-06-14T19:09:44.865Z
+tags: 
+editor: markdown
+dateCreated: 2025-06-14T00:07:42.878Z
 ---
 
 # All Places (A-Z)
-
-````dataviewjs
-if (false) {
-	const currentDepth = dv.current().file.path.split("/").length - 1;
-const currentFolder = dv.current().file.folder;
-
-const pages = dv.pages()
-	.where(p => p.file.folder.startsWith(currentFolder))
-	.sort(p => p.file.name);
-
-dv.list(pages.map(p => {
-	const upward = '../'.repeat(currentDepth);
-	const relPath = upward + encodeURI(p.file.path);
-	return `\\[${p.file.name}](${relPath})`;
-}));
-} else {
-	dv.paragraph("Refresh");
-}
-````
 
 * [Bank of Vallencia](/places/kingdom-of-minthar/vallencia/bank-of-vallencia/bank-of-vallencia)
 * [Crystal Forge](/places/crystal-forge/crystal-forge)
