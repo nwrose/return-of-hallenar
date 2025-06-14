@@ -1,9 +1,11 @@
 ---
-aliases:
-- Tainted Juju
-- Cult Fruit
-- Rotfruit
-tags: item
+title: poisoned-juju-fruit
+description: 
+published: 1
+date: 2025-06-14T19:13:39.751Z
+tags: item, key item
+editor: markdown
+dateCreated: 2025-06-14T00:09:33.482Z
 ---
 
 # Poisoned Juju Fruit
