@@ -1,10 +1,11 @@
 ---
-aliases:
-- Tremor Schedule Note
-- Cult of Hallenar's Rumbling Schedule
-- Dock Rumblings Note
-- Hallenar Cult Note
-tags: item
+title: note-with-earthquake-schedule
+description: 
+published: 1
+date: 2025-06-14T19:13:08.758Z
+tags: item, key item
+editor: markdown
+dateCreated: 2025-06-14T00:09:29.982Z
 ---
 
 # Cultist Note (Tremor Schedule)
