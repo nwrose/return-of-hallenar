@@ -1,27 +1,12 @@
 ---
-sticker: emoji//1f4da
-group_tag:
-- session notes
+title: session-notes
+description: 
+published: 1
+date: 2025-06-17T02:39:49.816Z
+tags: 
+editor: markdown
+dateCreated: 2025-06-14T00:08:32.133Z
 ---
-
-
-````dataviewjs
-if (false) {
-	const currentDepth = dv.current().file.path.split("/").length - 1;
-
-const pages = dv.pages()
-	.where(p => p.file.name.toLowerCase().includes("session"))
-	.sort(p => p.file.name);
-
-dv.list(pages.map(p => {
-	const upward = '../'.repeat(currentDepth);
-	const relPath = upward + encodeURI(p.file.path);
-	return `\\[${p.file.name}](${relPath})`;  // Escaped \[ to prevent Obsidian auto-linking
-}));
-} else {
-	dv.paragraph("Refresh");
-}
-````
 
 * [Session 1🐸](../Session%20Notes/Session%201%F0%9F%90%B8.md)
 * [Session 10🤵🏼‍♂️](../Session%20Notes/Session%2010%F0%9F%A4%B5%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F.md)
