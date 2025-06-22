@@ -1,18 +1,18 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil HQ|Iron Veil HQ]]'
+- '"Iron Veil HQ"'
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Iron Veil/Iron Veil|Iron Veil]]'
+- '"Iron Veil"'
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Seraphim Vos/Seraphim Vos|Seraphim Vos]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable|Sir Expendable]]'
-- '[[Players/Dobbin Cobblepot III/Sir/Sir|Sir]]'
+- '"Seraphim Vos"'
+- '"Sir Expendable"'
+- '"Sir"'
 noteableItems: null
 tags:
 - place

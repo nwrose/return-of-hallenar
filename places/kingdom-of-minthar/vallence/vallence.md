@@ -2,16 +2,16 @@
 tags:
 - place
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations: null
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Crimson Shroud/Crimson Shroud|Crimson Shroud]]'
-- '[[Factions/Vallence Factions/Ebon Quill/Ebon Quill|Ebon Quill]]'
-- '[[Factions/Vallence Factions/Iron Veil/Iron Veil|Iron Veil]]'
+- '"Crimson Shroud"'
+- '"Ebon Quill"'
+- '"Iron Veil"'
 noteableNPCs: null
 noteableItems: null
 ---

@@ -3,7 +3,7 @@ aliases: null
 Leader: null
 keyMembers: null
 factionSize: Small
-primaryLocation: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+primaryLocation: '"Vallence"'
 secondaryLocations: null
 branches: null
 playerAttitude: Hostile

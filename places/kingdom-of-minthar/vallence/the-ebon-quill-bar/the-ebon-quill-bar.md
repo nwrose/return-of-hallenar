@@ -1,17 +1,17 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations: null
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Ebon Quill/Ebon Quill|Ebon Quill]]'
+- '"Ebon Quill"'
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Malrik/Malrik|Malrik]]'
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Selene Veyne/Selene Veyne|Selene Veyne]]'
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Doctor Lucious White/Doctor Lucious White|Doctor Lucious White]]'
+- '"Malrik"'
+- '"Selene Veyne"'
+- '"Doctor Lucious White"'
 noteableItems: null
 tags:
 - place

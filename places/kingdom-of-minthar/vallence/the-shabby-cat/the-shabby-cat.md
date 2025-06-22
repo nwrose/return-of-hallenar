@@ -1,15 +1,15 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations: null
 playerAffiliations: null
 factions: null
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Misc Vallence NPCs/Penny/Penny|Penny]]'
-- '[[NPCs/Vallence NPCs/Misc Vallence NPCs/Shartrice/Shartrice|Shartrice]]'
+- '"Penny"'
+- '"Shartrice"'
 noteableItems: null
 tags:
 - place

@@ -6,9 +6,9 @@ tags:
 - Attuned
 - Legendary
 - '#item'
-owner: '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
-previousOwners: '[[NPCs/Vallencia NPCs/Vallencia''s Legendary Heroes/Legendary Warlock Hero|Legendary Warlock Hero]]'
-affiliations: '[[NPCs/Deities/Ragnar/Ragnar|Ragnar]]'
+owner: '"Chariel Von Dutch"'
+previousOwners: '"Legendary Warlock Hero"'
+affiliations: '"Ragnar"'
 magical: true
 ---
 

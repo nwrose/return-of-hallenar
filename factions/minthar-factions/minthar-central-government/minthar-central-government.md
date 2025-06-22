@@ -1,14 +1,14 @@
 ---
 aliases: null
-Leader: '[[NPCs/Minthar NPCs/King of Minthar/King of Minthar|King of Minthar]]'
+Leader: '"King of Minthar"'
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable|Sir Expendable]]'
-- '[[NPCs/Minthar NPCs/Sir Expendable Sr/Sir Expendable Sr|Sir Expendable Sr]]'
-- '[[NPCs/Minthar NPCs/Kaili Luvten/Kaili Luvten|Kaili Luvten]]'
+- '"Sir Expendable"'
+- '"Sir Expendable Sr"'
+- '"Kaili Luvten"'
 factionSize: Large
 primaryLocation: null
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Minthar/Minthar|Minthar]]'
+- '"Minthar"'
 branches: null
 playerAttitude: null
 noteableItems: null

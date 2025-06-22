@@ -1,18 +1,18 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Moltena/Moltena|Moltena]]'
+plane: '"Overworld"'
+country: '"Moltena"'
 city: null
 district: null
 factions:
-- '[[Factions/Ragnar''s Faction/Ragnar''s Faction|Ragnar''s Faction]]'
+- '"Ragnar''s Faction"'
 playerAffiliations:
-- '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
+- '"Chariel Von Dutch"'
 locationAffiliations: null
 noteableNPCs:
-- '[[NPCs/Deities/Ragnar/Ragnar|Ragnar]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sherman Corn/Sherman Corn|Sherman Corn]]'
-- '[[NPCs/Vallencia NPCs/Vallencia''s Legendary Heroes/Legendary Warlock Hero|Legendary Warlock Hero]]'
+- '"Ragnar"'
+- '"Sherman Corn"'
+- '"Legendary Warlock Hero"'
 noteableItems: null
 tags:
 - place

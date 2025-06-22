@@ -1,22 +1,22 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations: null
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Iron Veil/Iron Veil|Iron Veil]]'
+- '"Iron Veil"'
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/DJ Aetheris/DJ Aetheris|DJ Aetheris]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Rutha/Rutha|Rutha]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Jex/Jex|"Lucky" Jex]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Lina Kaldros/Lina Kaldros|Lina Kaldros]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Cassian Veylin/Cassian Veylin|Cassian Veylin]]'
+- '"DJ Aetheris"'
+- '"Rutha"'
+- '""Lucky" Jex"'
+- '"Lina Kaldros"'
+- '"Cassian Veylin"'
 noteableItems:
-- '[[Items/Miscellaneous Items/Levitation Orb|Levitation Orb]]'
-- '[[Items/Armor and Clothing/Iron Veil Levitation Boots|Iron Veil Levitation Boots]]'
+- '"Levitation Orb"'
+- '"Iron Veil Levitation Boots"'
 tags:
 - place
 ---

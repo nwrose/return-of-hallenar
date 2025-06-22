@@ -1,15 +1,15 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Upper Ring/Vallencia Upper Ring|Vallencia Upper Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Upper Ring"'
 locationAffiliations: null
 playerAffiliations: null
 factions:
-- '[[Factions/Vallencia Small Business Owner''s Association/Vallencia Small Business Owner''s Association|Vallencia Small Business Owner''s Association]]'
+- '"Vallencia Small Business Owner''s Association"'
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb|Balken Ribb]]'
+- '"Balken Ribb"'
 noteableItems: null
 tags:
 - place

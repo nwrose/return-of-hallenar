@@ -1,26 +1,26 @@
 ---
 aliases: []
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Upper Ring/Vallencia Upper Ring|Vallencia Upper Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Upper Ring"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallencia/Vallencia Parliament Building/Vallencia Parliament Building|Vallencia Parliament Building]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Vallencia Parliament Treasury/Vallencia Parliament Treasury|Vallencia Parliament Treasury]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Guzzlethroat''s Penthouse/Guzzlethroat''s Penthouse|Guzzlethroat''s Penthouse]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Upper Ring/Von Dutch Estate/Von Dutch Estate|Von Dutch Estate]]'
+- '"Vallencia Parliament Building"'
+- '"Vallencia Parliament Treasury"'
+- '"Guzzlethroat''s Penthouse"'
+- '"Von Dutch Estate"'
 playerAffiliations:
-- '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
+- '"Chariel Von Dutch"'
 factions:
-- '[[Factions/Vallencia Factions/Vallencia Parliament/Vallencia Parliament|Vallencia Parliament]]'
-- '[[Factions/Vallencia Factions/Stallia Shipping Company/Stallia Shipping Company|Stallia Shipping Company]]'
+- '"Vallencia Parliament"'
+- '"Stallia Shipping Company"'
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Guzzlethroat the Magnificent/Guzzlethroat the Magnificent|Guzzlethroat the Magnificent]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Parliament NPCs/Dracus Sinthar/Dracus Sinthar|Dracus Sinthar]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Parliament NPCs/Nicholas Sutter/Nicholas Sutter|Nicholas Sutter]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Parliament NPCs/Selena/Selena|Selena]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Kathilda Stallia/Kathilda Stallia|Kathilda Stallia]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Culvis/Culvis|Culvis]]'
+- '"Guzzlethroat the Magnificent"'
+- '"Dracus Sinthar"'
+- '"Nicholas Sutter"'
+- '"Selena"'
+- '"Kathilda Stallia"'
+- '"Culvis"'
 noteableItems: null
 tags:
 - place

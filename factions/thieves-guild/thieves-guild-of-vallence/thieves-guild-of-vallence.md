@@ -2,9 +2,9 @@
 aliases: null
 Leader: null
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Tim]]'
+- '"NPCs/Vallencia NPCs/Vallencia Core NPCs/Tim"'
 factionSize: Medium
-primaryLocation: '[[Places/Kingdom of Minthar/Vallence/Thieves Guild of Vallence Building/Thieves Guild of Vallence Building|Thieves Guild of Vallence Building]]'
+primaryLocation: '"Thieves Guild of Vallence Building"'
 secondaryLocations: null
 branches: null
 playerAttitude: Indifferent

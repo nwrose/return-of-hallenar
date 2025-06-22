@@ -1,24 +1,24 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask|Iron Mask]]'
+Leader: '"Iron Mask"'
 keyMembers:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Iron Mask/Iron Mask|Iron Mask]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Ignis Luvten/Ignis Luvten|Ignis Luvten]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Seraphim Vos/Seraphim Vos|Seraphim Vos]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Lina Kaldros/Lina Kaldros|Lina Kaldros]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Cassian Veylin/Cassian Veylin|Cassian Veylin]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Rutha/Rutha|Rutha]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/DJ Aetheris/DJ Aetheris|DJ Aetheris]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Jex/Jex|"Lucky" Jex]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Suzie/Suzie|Suzie]]'
+- '"Iron Mask"'
+- '"Ignis Luvten"'
+- '"Seraphim Vos"'
+- '"Lina Kaldros"'
+- '"Cassian Veylin"'
+- '"Rutha"'
+- '"DJ Aetheris"'
+- '""Lucky" Jex"'
+- '"Suzie"'
 factionSize: Medium
-primaryLocation: '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil HQ|Iron Veil HQ]]'
+primaryLocation: '"Iron Veil HQ"'
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Mask''s Throne Room/Iron Mask''s Throne Room|Iron Mask''s Throne Room]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Ignis'' Office/Ignis'' Office|Ignis'' Office]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Seraphim''s Office/Seraphim''s Office|Seraphim''s Office]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil Sleeping Quarters/Iron Veil Sleeping Quarters|Iron Veil Sleeping Quarters]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil Research Facility/Iron Veil Research Facility|Iron Veil Research Facility]]'
+- '"Iron Mask''s Throne Room"'
+- '"Ignis'' Office"'
+- '"Seraphim''s Office"'
+- '"Iron Veil Sleeping Quarters"'
+- '"Iron Veil Research Facility"'
 branches: null
 playerAttitude: Hostile
 noteableItems: null

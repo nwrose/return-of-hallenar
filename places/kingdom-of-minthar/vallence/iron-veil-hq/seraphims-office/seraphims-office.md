@@ -1,22 +1,22 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil HQ|Iron Veil HQ]]'
+- '"Iron Veil HQ"'
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Iron Veil/Iron Veil|Iron Veil]]'
-- '[[Factions/The Cult of Hallenar/The Cult of Hallenar|The Cult of Hallenar]]'
+- '"Iron Veil"'
+- '"The Cult of Hallenar"'
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Seraphim Vos/Seraphim Vos|Seraphim Vos]]'
+- '"Seraphim Vos"'
 noteableItems:
-- '[[Items/Key Items/Correspondence with Dracus Sinthar|Correspondence with Dracus Sinthar]]'
-- '[[Items/Key Items/Seraphim''s Research Log|Seraphim''s Research Log]]'
-- '[[Items/Key Items/Cult Pin|Cult Pin]]'
-- '[[Items/Weapons/Explosive Jelly|Explosive Jelly]]'
+- '"Correspondence with Dracus Sinthar"'
+- '"Seraphim''s Research Log"'
+- '"Cult Pin"'
+- '"Explosive Jelly"'
 tags:
 - place
 ---

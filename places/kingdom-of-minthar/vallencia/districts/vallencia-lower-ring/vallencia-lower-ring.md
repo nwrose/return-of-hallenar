@@ -1,14 +1,14 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Lower Ring/Vallencia Lower Ring|Vallencia Lower Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Lower Ring"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallencia/Docks/Docks|Docks]]'
+- '"Docks"'
 playerAffiliations: null
 factions:
-- '[[Factions/The Cult of Hallenar/The Cult of Hallenar|Cult of Hallenar]]'
+- '"Cult of Hallenar"'
 noteableNPCs: null
 noteableItems: null
 tags:

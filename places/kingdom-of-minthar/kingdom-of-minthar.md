@@ -1,7 +1,7 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
 city: null
 district: null
 factions: null

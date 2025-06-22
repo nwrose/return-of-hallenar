@@ -1,17 +1,17 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable|Sir Expendable]]'
+Leader: '"Sir Expendable"'
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable|Sir Expendable]]'
-- '[[NPCs/Minthar NPCs/Sir Expendable Sr/Sir Expendable Sr|Sir Expendable Sr]]'
+- '"Sir Expendable"'
+- '"Sir Expendable Sr"'
 factionSize: Small
-primaryLocation: '[[Places/Kingdom of Minthar/Minthar/Minthar|Minthar]]'
+primaryLocation: '"Minthar"'
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
+- '"Vallencia"'
 branches: null
 playerAttitude: null
 noteableItems:
-- '[[Items/Key Items/Hallenar''s Sealing Journal|Hallenar''s Sealing Journal]]'
+- '"Hallenar''s Sealing Journal"'
 tags:
 - Faction
 ---

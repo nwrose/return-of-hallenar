@@ -1,10 +1,10 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Guzzlethroat the Magnificent/Guzzlethroat the Magnificent|Guzzlethroat the Magnificent]]'
+Leader: '"Guzzlethroat the Magnificent"'
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Guzzlethroat the Magnificent/Guzzlethroat the Magnificent|Guzzlethroat the Magnificent]]'
+- '"Guzzlethroat the Magnificent"'
 factionSize: Small
-primaryLocation: '[[Places/Kingdom of Minthar/Vallencia/Vallencia Theatre|Vallencia Theatre]]'
+primaryLocation: '"Vallencia Theatre"'
 secondaryLocations: null
 branches: null
 playerAttitude: Hostile

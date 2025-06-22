@@ -1,12 +1,12 @@
 ---
 aliases: null
-Leader: '[[Players/Dobbin Cobblepot III/Dobbin Cobblepot III|Dobbin Cobblepot III]]'
+Leader: '"Dobbin Cobblepot III"'
 keyMembers:
-- '[[Players/Dobbin Cobblepot III/Dobbin Cobblepot III|Dobbin Cobblepot III]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sicily Quickstep/Sicily Quickstep|Sicily Quickstep]]'
-- '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/Thad Quadra/Thad Quadra|Thad Quadra]]'
+- '"Dobbin Cobblepot III"'
+- '"Sicily Quickstep"'
+- '"Thad Quadra"'
 factionSize: Small
-primaryLocation: '[[Places/Kingdom of Minthar/Vallencia/The Not So Shabby Cat Inn/The Not So Shabby Cat Inn|The Not So Shabby Cat Inn]]'
+primaryLocation: '"The Not So Shabby Cat Inn"'
 secondaryLocations: null
 branches: null
 playerAttitude: Friendly

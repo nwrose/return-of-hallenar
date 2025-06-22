@@ -1,17 +1,17 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 playerAffiliations:
-- '[[Players/Olive/Olive|Olive]]'
+- '"Olive"'
 locationAffiliations: null
 factions: null
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Vallence Core NPCs/Garruk Ironstitch/Garruk Ironstitch|Garruk Ironstitch]]'
+- '"Garruk Ironstitch"'
 noteableItems:
-- '[[Items/Key Items/Ethereal Tuning Fork|Ethereal Tuning Fork]]'
+- '"Ethereal Tuning Fork"'
 tags:
 - place
 ---

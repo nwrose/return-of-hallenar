@@ -1,9 +1,9 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/Shirley Topplepots/Shirley Topplepots|Shirley Topplepots]]'
+Leader: '"Shirley Topplepots"'
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/Shirley Topplepots/Shirley Topplepots|Shirley Topplepots]]'
-- '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/Thad Quadra/Thad Quadra|Thad Quadra]]'
+- '"Shirley Topplepots"'
+- '"Thad Quadra"'
 factionSize: Small
 primaryLocation: Shirley's House
 secondaryLocations:

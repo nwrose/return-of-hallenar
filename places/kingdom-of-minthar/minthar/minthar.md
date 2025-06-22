@@ -3,23 +3,23 @@ aliases:
 - Minthar proper
 - Minthar (city)
 - City of Minthar
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Minthar/Minthar|Minthar]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Minthar"'
 district: null
 locationAffiliations: null
 factions:
-- '[[Factions/Minthar Factions/Minthar Factions|Minthar Factions]]'
-- '[[Factions/Minthar Factions/Council of Mages/Council of Mages|Council of Mages]]'
-- '[[Factions/Minthar Factions/Expendable Family/Expendable Family|Expendable Family]]'
-- '[[Factions/Minthar Factions/Minthar Central Government/Minthar Central Government|Minthar Central Government]]'
+- '"Minthar Factions"'
+- '"Council of Mages"'
+- '"Expendable Family"'
+- '"Minthar Central Government"'
 playerAffiliations: null
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sir Expendable/Sir Expendable|Sir Expendable]]'
-- '[[NPCs/Minthar NPCs/Sir Expendable Sr/Sir Expendable Sr|Sir Expendable Sr]]'
-- '[[NPCs/Minthar NPCs/King of Minthar/King of Minthar|King of Minthar]]'
-- '[[NPCs/Minthar NPCs/Kaili Luvten/Kaili Luvten|Kaili Luvten]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Ignis Luvten/Ignis Luvten|Ignis Luvten]]'
+- '"Sir Expendable"'
+- '"Sir Expendable Sr"'
+- '"King of Minthar"'
+- '"Kaili Luvten"'
+- '"Ignis Luvten"'
 noteableItems: null
 tags:
 - place

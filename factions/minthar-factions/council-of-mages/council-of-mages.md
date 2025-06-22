@@ -5,7 +5,7 @@ keyMembers: null
 factionSize: Small
 primaryLocation: null
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Minthar/Minthar|Minthar]]'
+- '"Minthar"'
 branches: null
 playerAttitude: null
 noteableItems: null

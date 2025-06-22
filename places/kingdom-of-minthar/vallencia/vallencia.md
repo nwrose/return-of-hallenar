@@ -2,18 +2,18 @@
 tags:
 - place
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
 district: null
 locationAffiliations: null
 playerAffiliations:
-- '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
+- '"Chariel Von Dutch"'
 factions:
-- '[[Factions/Vallencia Factions/Vallencia Parliament/Vallencia Parliament|Vallencia Parliament]]'
-- '[[Factions/Vallencia Factions/Stallia Shipping Company/Stallia Shipping Company|Stallia Shipping Company]]'
-- '[[Factions/Vallencia Factions/Vallencia Amateur Theatre Troupe/Vallencia Amateur Theatre Troupe|Vallencia Amateur Theatre Troupe]]'
-- '[[Factions/Vallencia Factions/Guzzlethroat the Magnificent Fan Club/Guzzlethroat the Magnificent Fan Club|Guzzlethroat the Magnificent Fan Club]]'
+- '"Vallencia Parliament"'
+- '"Stallia Shipping Company"'
+- '"Vallencia Amateur Theatre Troupe"'
+- '"Guzzlethroat the Magnificent Fan Club"'
 noteableNPCs: null
 noteableItems: null
 ---

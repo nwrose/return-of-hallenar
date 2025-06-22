@@ -1,24 +1,24 @@
 ---
 aliases:
 - Vallencia Port
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Lower Ring/Vallencia Lower Ring|Vallencia Lower Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Lower Ring"'
 locationAffiliations:
-- '[[Places/Juju Island/Juju Island|Juju Island]]'
-- '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Docks/The Salty Barnacle/The Salty Barnacle|The Salty Barnacle]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Stallia Shipping Company HQ/Stallia Shipping Company HQ|Stallia Shipping Company HQ]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Stallia Shipping Company Warehouse/Stallia Shipping Company Warehouse|Stallia Shipping Company Warehouse]]'
+- '"Juju Island"'
+- '"Vallence"'
+- '"The Salty Barnacle"'
+- '"Stallia Shipping Company HQ"'
+- '"Stallia Shipping Company Warehouse"'
 playerAffiliations:
-- '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
+- '"Chariel Von Dutch"'
 factions:
-- '[[Factions/Vallencia Factions/Stallia Shipping Company/Stallia Shipping Company|Stallia Shipping Company]]'
-- '[[Factions/The Cult of Hallenar/The Cult of Hallenar|Cult of Hallenar]]'
+- '"Stallia Shipping Company"'
+- '"Cult of Hallenar"'
 noteableNPCs: null
 noteableItems:
-- '[[Items/Key Items/Note with earthquake schedule|Note with earthquake schedule]]'
+- '"Note with earthquake schedule"'
 tags:
 - place
 - docks

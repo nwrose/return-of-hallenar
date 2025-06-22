@@ -1,12 +1,12 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Upper Ring/Vallencia Upper Ring|Vallencia Upper Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Upper Ring"'
 locationAffiliations: null
 playerAffiliations:
-- '[[Players/Dobbin Cobblepot III/Dobbin Cobblepot III|Dobbin Cobblepot III]]'
+- '"Dobbin Cobblepot III"'
 factions: null
 noteableNPCs: null
 noteableItems: null

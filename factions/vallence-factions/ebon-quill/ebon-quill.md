@@ -1,16 +1,16 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Malrik/Malrik|Malrik]]'
+Leader: '"Malrik"'
 keyMembers:
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Malrik/Malrik|Malrik]]'
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Selene Veyne/Selene Veyne|Selene Veyne]]'
-- '[[NPCs/Vallence NPCs/Ebon Quill NPCs/Doctor Lucious White/Doctor Lucious White|Doctor Lucious White]]'
-- '[[Players/Brad Romance/Brad Romance|Brad Romance]]'
-- '[[Players/Dobbin Cobblepot III/Dobbin Cobblepot III|Dobbin Cobblepot III]]'
+- '"Malrik"'
+- '"Selene Veyne"'
+- '"Doctor Lucious White"'
+- '"Brad Romance"'
+- '"Dobbin Cobblepot III"'
 factionSize: Small
-primaryLocation: '[[Places/Kingdom of Minthar/Vallence/The Ebon Quill Bar/The Ebon Quill Bar|The Ebon Quill Bar]]'
+primaryLocation: '"The Ebon Quill Bar"'
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+- '"Vallence"'
 branches: null
 playerAttitude: Friendly
 noteableItems: null

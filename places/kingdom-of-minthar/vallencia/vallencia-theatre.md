@@ -1,15 +1,15 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Upper Ring/Vallencia Upper Ring|Vallencia Upper Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Upper Ring"'
 locationAffiliations: null
 playerAffiliations: null
 factions:
-- '[[Factions/Vallencia Factions/Vallencia Players/Vallencia Players|Vallencia Players]]'
+- '"Vallencia Players"'
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Guzzlethroat the Magnificent/Guzzlethroat the Magnificent|Guzzlethroat the Magnificent]]'
+- '"Guzzlethroat the Magnificent"'
 noteableItems: null
 tags:
 - place

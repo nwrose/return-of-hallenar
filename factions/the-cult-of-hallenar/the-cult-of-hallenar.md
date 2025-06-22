@@ -5,18 +5,18 @@ aliases:
 - Cult of Hallenar
 Leader: null
 keyMembers:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Seraphim Vos]]'
+- '"NPCs/Vallence NPCs/Iron Veil NPCs/Seraphim Vos"'
 factionSize: Large
 primaryLocation: null
 secondaryLocations: null
 branches: null
 playerAttitude: Hostile
 noteableItems:
-- '[[Items/Key Items/Cult Pin|Cult Pin]]'
-- '[[Items/Key Items/Poisoned Juju Fruit|Poisoned Juju Fruit]]'
-- '[[Items/Key Items/Hallenar''s Sealing Journal|Hallenar''s Sealing Journal]]'
-- '[[Items/Key Items/Key to Hallenar''s Sealing Journal|Key to Hallenar''s Sealing Journal]]'
-- '[[Items/Key Items/Note with earthquake schedule|Note with earthquake schedule]]'
+- '"Cult Pin"'
+- '"Poisoned Juju Fruit"'
+- '"Hallenar''s Sealing Journal"'
+- '"Key to Hallenar''s Sealing Journal"'
+- '"Note with earthquake schedule"'
 tags:
 - Faction
 ---

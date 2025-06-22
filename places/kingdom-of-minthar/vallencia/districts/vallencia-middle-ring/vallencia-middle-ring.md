@@ -1,23 +1,23 @@
 ---
 aliases:
 - The Merchant Ring
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Middle Ring/Vallencia Middle Ring|Vallencia Middle Ring]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallencia Middle Ring"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallencia/Vallencia Town Square/Vallencia Town Square|Vallencia Town Square]]'
-- '[[Places/Kingdom of Minthar/Vallencia/The Not So Shabby Cat Inn/The Not So Shabby Cat Inn|The Not So Shabby Cat Inn]]'
-- '[[Items/Shops/The Whimsy Wardrobe & Wares|The Whimsy Wardrobe & Wares]]'
-- '[[Places/Kingdom of Minthar/Vallencia/Districts/Vallencia Entertainment District/Vallencia Entertainment District|Vallencia Entertainment District]]'
+- '"Vallencia Town Square"'
+- '"The Not So Shabby Cat Inn"'
+- '"The Whimsy Wardrobe & Wares"'
+- '"Vallencia Entertainment District"'
 playerAffiliations: null
 factions:
-- '[[Factions/Vallencia Small Business Owner''s Association/Vallencia Small Business Owner''s Association|Vallencia Small Business Owner''s Association]]'
-- '[[Factions/Vallencia Factions/Vallencia Amateur Theatre Troupe/Vallencia Amateur Theatre Troupe|Vallencia Amateur Theatre Troupe]]'
+- '"Vallencia Small Business Owner''s Association"'
+- '"Vallencia Amateur Theatre Troupe"'
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb|Balken Ribb]]'
+- '"Balken Ribb"'
 noteableItems:
-- '[[Items/Miscellaneous Items/Juju Fruit Pie|Juju Fruit Pie]]'
+- '"Juju Fruit Pie"'
 tags:
 - place
 - district

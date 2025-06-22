@@ -1,17 +1,17 @@
 ---
 aliases: null
-Leader: '[[NPCs/Deities/Ragnar/Ragnar|Ragnar]]'
+Leader: '"Ragnar"'
 keyMembers:
-- '[[NPCs/Deities/Ragnar/Ragnar|Ragnar]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sherman Corn/Sherman Corn|Sherman Corn]]'
-- '[[NPCs/Vallencia NPCs/Vallencia''s Legendary Heroes/Legendary Warlock Hero|Legendary Warlock Hero]]'
+- '"Ragnar"'
+- '"Sherman Corn"'
+- '"Legendary Warlock Hero"'
 factionSize: Small
-primaryLocation: '[[Places/Moltena/Moltena|Moltena]]'
+primaryLocation: '"Moltena"'
 secondaryLocations: null
 branches: null
 playerAttitude: Hostile
 noteableItems:
-- '[[Items/Key Items/Chariel''s Dice|Chariel''s Dice]]'
+- '"Chariel''s Dice"'
 tags:
 - Faction
 ---

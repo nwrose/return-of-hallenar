@@ -3,12 +3,12 @@ aliases:
 - VSBOA
 Leader: null
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Balken Ribb/Balken Ribb|Balken Ribb]]'
-- '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/WW&W Shopkeep Boy/WW&W Shopkeep Boy|WW&W Shopkeep Boy]]'
+- '"Balken Ribb"'
+- '"WW&W Shopkeep Boy"'
 factionSize: Small
 primaryLocation: null
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Vallencia/The Not So Shabby Cat Inn/The Not So Shabby Cat Inn|The Not So Shabby Cat Inn]]'
+- '"The Not So Shabby Cat Inn"'
 branches: null
 playerAttitude: Indifferent
 noteableItems: null

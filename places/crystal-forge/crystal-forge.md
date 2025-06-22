@@ -1,15 +1,15 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Crystal Forge/Crystal Forge|Crystal Forge]]'
+plane: '"Overworld"'
+country: '"Crystal Forge"'
 city: null
 district: null
 locationAffiliations: null
 factions: null
 playerAffiliations:
-- '[[Players/Dobbin Cobblepot III/Dobbin Cobblepot III|Dobbin Cobblepot III]]'
+- '"Dobbin Cobblepot III"'
 noteableNPCs:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Guzzlethroat the Magnificent/Guzzlethroat the Magnificent|Guzzlethroat the Magnificent]]'
+- '"Guzzlethroat the Magnificent"'
 noteableItems: null
 tags:
 - place

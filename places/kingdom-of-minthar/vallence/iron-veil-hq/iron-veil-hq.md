@@ -1,22 +1,22 @@
 ---
 aliases: null
-plane: '[[Planes/Overworld/Overworld|Overworld]]'
-country: '[[Places/Kingdom of Minthar/Kingdom of Minthar|Kingdom of Minthar]]'
-city: '[[Places/Kingdom of Minthar/Vallencia/Vallencia|Vallencia]]'
-district: '[[Places/Kingdom of Minthar/Vallence/Vallence|Vallence]]'
+plane: '"Overworld"'
+country: '"Kingdom of Minthar"'
+city: '"Vallencia"'
+district: '"Vallence"'
 locationAffiliations:
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Ignis'' Office/Ignis'' Office|Ignis'' Office]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Seraphim''s Office/Seraphim''s Office|Seraphim''s Office]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Mask''s Throne Room/Iron Mask''s Throne Room|Iron Mask''s Throne Room]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil Sleeping Quarters/Iron Veil Sleeping Quarters|Iron Veil Sleeping Quarters]]'
-- '[[Places/Kingdom of Minthar/Vallence/Iron Veil HQ/Iron Veil Research Facility/Iron Veil Research Facility|Iron Veil Research Facility]]'
+- '"Ignis'' Office"'
+- '"Seraphim''s Office"'
+- '"Iron Mask''s Throne Room"'
+- '"Iron Veil Sleeping Quarters"'
+- '"Iron Veil Research Facility"'
 playerAffiliations: null
 factions:
-- '[[Factions/Vallence Factions/Iron Veil/Iron Veil|Iron Veil]]'
+- '"Iron Veil"'
 noteableNPCs:
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Lina Kaldros/Lina Kaldros|Lina Kaldros]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Cassian Veylin/Cassian Veylin|Cassian Veylin]]'
-- '[[NPCs/Vallence NPCs/Iron Veil NPCs/Rutha/Rutha|Rutha]]'
+- '"Lina Kaldros"'
+- '"Cassian Veylin"'
+- '"Rutha"'
 noteableItems: null
 tags:
 - place

@@ -1,16 +1,16 @@
 ---
 aliases: null
-Leader: '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Kathilda Stallia/Kathilda Stallia|Kathilda Stallia]]'
+Leader: '"Kathilda Stallia"'
 keyMembers:
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Kathilda Stallia/Kathilda Stallia|Kathilda Stallia]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Culvis/Culvis|Culvis]]'
-- '[[Players/Chariel Von Dutch/Chariel Von Dutch|Chariel Von Dutch]]'
-- '[[NPCs/Vallencia NPCs/Misc Vallencia NPCs/Timothee the Chalamet/Timothee the Chalamet|Timothee the Chalamet]]'
-- '[[NPCs/Vallencia NPCs/Vallencia Core NPCs/Sherman Corn/Sherman Corn|Sherman Corn]]'
+- '"Kathilda Stallia"'
+- '"Culvis"'
+- '"Chariel Von Dutch"'
+- '"Timothee the Chalamet"'
+- '"Sherman Corn"'
 factionSize: Medium
-primaryLocation: '[[Places/Kingdom of Minthar/Vallencia/Stallia Shipping Company HQ/Stallia Shipping Company HQ|Stallia Shipping Company HQ]]'
+primaryLocation: '"Stallia Shipping Company HQ"'
 secondaryLocations:
-- '[[Places/Kingdom of Minthar/Vallencia/Stallia Shipping Company Warehouse/Stallia Shipping Company Warehouse|Stallia Shipping Company Warehouse]]'
+- '"Stallia Shipping Company Warehouse"'
 branches: null
 playerAttitude: Friendly
 noteableItems: null
